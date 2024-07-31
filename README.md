@@ -45,7 +45,7 @@ Joy Tactics is an emerging podcast hosted by three hilarious alternative comedia
         * It formats the transcript name as YYYYMMDD_formatted_title.txt
     * Lastly, the notebook scrapes the youtube_url using selenium
         * This also gets the youtube video for bonus eppys so you need to write your email and patreon password into the code to authenticate into Patreon
-        * This cell goes soooo slow. I ended up just clicking on each patreon video post manually and clicking the 'Watch on YouTube' link and copying the url manually bc it was so slow. But it does do it automatically if you're loads the patreon pages faster
+        * This cell goes soooo slow. I ended up just clicking on each patreon video post manually and clicking the 'Watch on YouTube' link and copying the url manually bc it was so slow. But it does do it automatically if yours loads the patreon pages faster
         * This cell is just filling out the youtube_url in episodes.csv, so you could do it manually
 
 3. The `02_download_transcripts.ipynb` notebook goes through episodes.csv and downloads the audio from each youtube_url and saves the transcript
