@@ -15,13 +15,13 @@ Joy Tactics is an emerging podcast hosted by three hilarious alternative comedia
 1. Install python package requirements: <br>
 `pip install -r requirements.txt`
 
-2. Made sure docker is running, then spin up the Elastic instance using this command from the top level directory: 
+2. Make sure docker is running, then spin up the Elastic instance using this command from the top level directory: 
 `docker-compose up -d`
 
 3. Ingest all of the transcripts <br>
 `python ingest_data.py`
 
-4. Confirm the 'transcripts' was sucessfully ingested: <br>
+4. Confirm the 'transcripts' index was successfully ingested: <br>
 `curl -X GET "localhost:9200/transcripts/_count"`
 
 5. Run the streamlit app: <br>
