@@ -6,7 +6,7 @@ This repo downloads all episodes from the Joy Tactics pod and transcribes the po
 ### Why Is This Repo
 Joy Tactics is an emerging podcast hosted by three hilarious alternative comedians (Nate Varrone, Jack Bensinger, and Eric Rahill). Because of the circuitous nature of each episode discussion, finding funny bits from each episode can be hard. So this app helps to find those bits.
 
-**Note:** Because half of Joy Tactics eppys are Bonus episodes for paying Patreons only, this repo only has the free episode transcripts. But you can fill out the episodes.csv with the bonus episodes youtube_urls and download/transcribe the bonus episodes to use the complete transcripts if you're a Patron. Become a Joy Tactician at patreon.com/joytactics.
+**Note:** Because half of Joy Tactics eppys are Bonus episodes for paying Patreons only, this repo only has the free episode transcripts. But you can fill out the episodes.csv with the bonus episodes youtube_urls and download/transcribe the bonus episodes to use the complete transcripts if you're a Patron. Become a Joy Tactician at https://www.patreon.com/joytactics.
 
 ## How To Run the App Locally
 
