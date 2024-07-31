@@ -1,0 +1,1280 @@
+0:00:00 - 0:00:06.400000::Can I say this, to whoever is powering the simulation right now, whoever is playing a simp style,
+0:00:06.400000 - 0:00:08.160000::can you give us a break, dude?
+0:00:08.160000 - 0:00:10.320000::Leave us alone, or whatever.
+0:00:10.320000 - 0:00:13.520000::Leave us the fuck alone and just let nobody die.
+0:00:13.520000 - 0:00:14.480000::Please, for a...
+0:00:14.480000 - 0:00:15.920000::We're tired, man.
+0:00:15.920000 - 0:00:16.720000::We're tired.
+0:00:17.440000 - 0:00:18.720000::Welcome to Joy Tactics.
+0:00:19.680000 - 0:00:22.880000::The podcast dedicated to all things joyful, joyous,
+0:00:22.880000 - 0:00:25.520000::and meeting as many celebrities as humanly possible.
+0:00:26.480000 - 0:00:29.760000::Hosted by Eric Rahill, Nate Verone, and Jack Benzinga.
+0:00:30.720000 - 0:00:31.200000::Enjoy.
+0:00:32.640000 - 0:00:36.720000::Nate, I feel like you should really do the honors.
+0:00:36.720000 - 0:00:38::This is your wheelhouse here.
+0:00:38.800000 - 0:00:40.400000::Yeah, no, yeah, yeah, for sure.
+0:00:40.400000 - 0:00:41.440000::I'll take it.
+0:00:41.440000 - 0:00:50.320000::So, this week has been really special for me and for my family, just because, as you guys know,
+0:00:50.320000 - 0:00:51.360000::I'm British and...
+0:00:54.640000 - 0:00:56.560000::And I try to hide my accent.
+0:00:56.560000 - 0:00:58.320000::It's really hard to do, but, um,
+0:00:59.120000 - 0:01:01.840000::yeah, this has been a big moment for me.
+0:01:01.840000 - 0:01:04::The coronation is happening this week.
+0:01:04.800000 - 0:01:09.520000::And, yeah, my king is, you know, he's the king now, my king.
+0:01:10.320000 - 0:01:10.560000::Yeah.
+0:01:11.360000 - 0:01:14.240000::What you were saying, a lot of people were like bummed for a queen.
+0:01:16.080000 - 0:01:18.240000::A lot of it to be dying.
+0:01:18.800000 - 0:01:21.600000::But you were kind of like, I'm tired of her.
+0:01:21.600000 - 0:01:22.880000::It's time for the next.
+0:01:22.880000 - 0:01:23.280000::You've been a...
+0:01:23.280000 - 0:01:23.920000::Oh, yeah.
+0:01:23.920000 - 0:01:25.120000::You've been a Prince Charles head,
+0:01:25.760000 - 0:01:26.720000::soon says long as I'm...
+0:01:26.720000 - 0:01:27.280000::Oh, yeah.
+0:01:27.280000 - 0:01:30.400000::I was outside the fucking royal hospital when the queen was dying.
+0:01:30.400000 - 0:01:31.200000::I was like,
+0:01:31.200000 - 0:01:32.880000::die, die!
+0:01:32.880000 - 0:01:33.840000::I was...
+0:01:34.960000 - 0:01:35.920000::I was reading the article.
+0:01:35.920000 - 0:01:39.120000::You were the one standing out because most people were standing outside of that hospital,
+0:01:39.120000 - 0:01:41.920000::throwing medicine, whatever medicine you had in the window.
+0:01:41.920000 - 0:01:42.400000::Yeah, right.
+0:01:42.400000 - 0:01:42.880000::I had vill.
+0:01:42.880000 - 0:01:45.280000::Hoping that some Advil land in her mouth or something.
+0:01:45.280000 - 0:01:47.200000::You know, they don't have Advil in the UK.
+0:01:47.200000 - 0:01:48.720000::They have something called Paracetamol.
+0:01:49.600000 - 0:01:52.400000::Because I'd be profan, who's deemed too dangerous.
+0:01:52.400000 - 0:01:53.600000::So, yeah, we should be...
+0:01:53.680000 - 0:01:57.200000::We should have checked some Advil too in the queen's mouth.
+0:01:57.200000 - 0:01:57.680000::Wow.
+0:01:57.680000 - 0:01:58.400000::Ernie, that's a...
+0:01:58.400000 - 0:02:01.280000::Wait, I'd be profan is dangerous.
+0:02:02.480000 - 0:02:03.840000::Yeah, I think it's not...
+0:02:03.840000 - 0:02:07.040000::Someone had an Uber driver that we know that was talking to them.
+0:02:07.040000 - 0:02:09.200000::They're like, every time he's fallen, I'd be profan.
+0:02:09.200000 - 0:02:11.440000::It's like a grenade going off inside your body.
+0:02:11.440000 - 0:02:12.480000::Oh, hi.
+0:02:12.480000 - 0:02:13.440000::Well, so...
+0:02:14.560000 - 0:02:16::Speaking of royalty,
+0:02:16 - 0:02:17.680000::you know who's the royalty in the US?
+0:02:18.240000 - 0:02:19.680000::The pharmaceutical companies.
+0:02:20.320000 - 0:02:21.280000::Oh, yeah.
+0:02:21.280000 - 0:02:21.520000::Yes.
+0:02:22.240000 - 0:02:22.720000::Literally.
+0:02:23.360000 - 0:02:25.520000::So, how do King Fizer, Queen...
+0:02:26.720000 - 0:02:27.200000::Queen...
+0:02:27.200000 - 0:02:27.680000::Whatever.
+0:02:27.680000 - 0:02:28.880000::The other one is Erica.
+0:02:28.880000 - 0:02:31.360000::AstraZeneca, whatever.
+0:02:31.360000 - 0:02:32.480000::Yeah, they bird it, is that?
+0:02:34.080000 - 0:02:35.120000::No, that's a good point.
+0:02:35.120000 - 0:02:36.320000::Johnson Johnson.
+0:02:36.320000 - 0:02:37.920000::Who do we worship?
+0:02:37.920000 - 0:02:39.200000::Okay, we come down.
+0:02:39.200000 - 0:02:42.560000::It's so easy for us to come down on the UK.
+0:02:43.440000 - 0:02:44.560000::You fucking idiot.
+0:02:44.560000 - 0:02:45.840000::You guys have a King Queen.
+0:02:45.840000 - 0:02:47.200000::You fucking dumbasses.
+0:02:47.200000 - 0:02:47.440000::Yeah.
+0:02:47.440000 - 0:02:49.200000::Meanwhile, what are we worshiping?
+0:02:49.200000 - 0:02:50.480000::Corporations.
+0:02:50.480000 - 0:02:51.200000::Money.
+0:02:51.200000 - 0:02:52::Celebrities.
+0:02:52.720000 - 0:02:53.760000::To the town of Goods.
+0:02:54.320000 - 0:02:55.120000::Highways.
+0:02:55.760000 - 0:02:56::Yeah.
+0:02:56.800000 - 0:02:57.120000::God.
+0:02:57.680000 - 0:02:58::Yeah.
+0:02:58 - 0:02:58.880000::We're such losers.
+0:02:58.880000 - 0:03:00.880000::We need to be more like the you fucking K.
+0:03:01.520000 - 0:03:02::We do.
+0:03:02 - 0:03:02.960000::Absolutely.
+0:03:02.960000 - 0:03:03.760000::You know what?
+0:03:03.760000 - 0:03:04.960000::Pub live.
+0:03:04.960000 - 0:03:08.640000::I'm not even scared for the decline of the US.
+0:03:08.640000 - 0:03:14.160000::Like, everyone's just so frightened that the US is not going to be like, you know, the number one,
+0:03:15.120000 - 0:03:16.640000::you know, thing in the world.
+0:03:16.640000 - 0:03:19.680000::And it's like, look, just our model is the UK.
+0:03:19.680000 - 0:03:20.400000::You know what I'm saying?
+0:03:20.400000 - 0:03:23.760000::They used to be, they were the last kind of superpower.
+0:03:24.720000 - 0:03:25.680000::Before us.
+0:03:25.680000 - 0:03:26.800000::We are the UK.
+0:03:27.600000 - 0:03:29.920000::Like, with the UK came over here.
+0:03:30.560000 - 0:03:34.880000::As far as I know, a bunch of British people got on boats and came over here to try to get
+0:03:36.640000 - 0:03:37.120000::something.
+0:03:37.760000 - 0:03:40.080000::And then what happened was essentially they
+0:03:41.040000 - 0:03:43.120000::they said, we're tired of paying taxes.
+0:03:44 - 0:03:44.960000::Let's be our own thing.
+0:03:44.960000 - 0:03:47.440000::So this, you know, this is Britain by all means.
+0:03:47.440000 - 0:03:48.720000::And some people do believe that.
+0:03:50.560000 - 0:03:52.880000::Isn't there some law that says we're still Britain?
+0:03:52.880000 - 0:03:54::Have you, has anyone heard of this?
+0:03:55.280000 - 0:03:55.840000::I don't know.
+0:03:56.560000 - 0:03:57.760000::I don't know about that.
+0:03:57.760000 - 0:03:59.840000::That might be more of a conspiracy thing, but I'm not.
+0:03:59.840000 - 0:04:01.920000::I'll familiarize myself and we'll get back to it.
+0:04:02.560000 - 0:04:10.480000::I read something crazy that British accents only became real after America started,
+0:04:10.480000 - 0:04:12.480000::like the United States of America started to exist.
+0:04:12.480000 - 0:04:14.480000::Because they wanted to separate them.
+0:04:15.360000 - 0:04:17.120000::Them from the colonists.
+0:04:18.480000 - 0:04:19.680000::Oh, and so I don't know.
+0:04:20.160000 - 0:04:21.360000::I read this somewhere.
+0:04:21.360000 - 0:04:22.720000::They were talking like this.
+0:04:23.360000 - 0:04:23.920000::And what about it?
+0:04:25.440000 - 0:04:26.560000::They were talking like pirates.
+0:04:27.440000 - 0:04:28.960000::Yeah, I think it was more pirate style.
+0:04:28.960000 - 0:04:29.600000::And then.
+0:04:29.600000 - 0:04:30.400000::No.
+0:04:30.400000 - 0:04:31.360000::Hey.
+0:04:31.360000 - 0:04:31.840000::All right.
+0:04:31.840000 - 0:04:34.480000::So wait, they were like, they were like, it's mad brick out here.
+0:04:35.520000 - 0:04:37.760000::They went to like accent classes or something.
+0:04:37.760000 - 0:04:39.600000::Like, oh, we got all like adopt this.
+0:04:39.600000 - 0:04:41.360000::So somebody had to invent an accent.
+0:04:42.240000 - 0:04:44.720000::It's not worth looking up, but let's just pretend like that.
+0:04:44.720000 - 0:04:47.440000::Jack, do you have the hang dude?
+0:04:47.440000 - 0:04:49.600000::Like the axolution, the accent revolution.
+0:04:49.920000 - 0:04:51.680000::You got to invent a new accent.
+0:04:51.680000 - 0:04:52.400000::Wait, wait, wait.
+0:04:52.400000 - 0:04:52.640000::Trust me.
+0:04:52.640000 - 0:04:52.800000::Trust me.
+0:04:52.800000 - 0:04:53.360000::It's on the way.
+0:04:53.360000 - 0:04:54.320000::Don't even worry about it.
+0:04:54.320000 - 0:04:58.880000::Can everybody please, this is the challenge, a real earnest challenge.
+0:04:58.880000 - 0:05:00::Go through and do your...
+
+0:05:00 - 0:05:03.360000::your best British accent gun in your mouth.
+0:05:04.640000 - 0:05:06.640000::How am I supposed to speak with a gun in my mouth?
+0:05:06.640000 - 0:05:08.960000::Well, it's in the mouth at the beginning and that's when they tell you the
+0:05:08.960000 - 0:05:10.320000::command and then they just take it.
+0:05:12.160000 - 0:05:13.920000::And you got that taste of metal up in there.
+0:05:13.920000 - 0:05:15.520000::Yeah, so put that in there too.
+0:05:16.880000 - 0:05:18.480000::And now just do a British accent?
+0:05:18.480000 - 0:05:21.360000::Yeah, be asking me for, be ordering a sandwich.
+0:05:21.360000 - 0:05:22.160000::Hello, my.
+0:05:22.160000 - 0:05:23.760000::I can only do it if I'm pissed off.
+0:05:23.760000 - 0:05:27.040000::Like I can only do British accent if I'm like, it's like, you do that
+0:05:27.040000 - 0:05:28.960000::working class guy.
+0:05:28.960000 - 0:05:29.600000::That's the work.
+0:05:30.400000 - 0:05:32.080000::Yeah, but no, we want what we're doing.
+0:05:32.080000 - 0:05:33.280000::This is the royals episode.
+0:05:33.280000 - 0:05:35.280000::So we need to do the class.
+0:05:35.280000 - 0:05:35.840000::Classy one.
+0:05:35.840000 - 0:05:36.640000::The classic.
+0:05:36.640000 - 0:05:37.840000::None of that low class.
+0:05:37.840000 - 0:05:41.120000::Well, well, and don't feel bad about yourself when you hear this
+0:05:41.120000 - 0:05:42.880000::because we're trained test beings.
+0:05:42.880000 - 0:05:44.800000::We know the different dialects of the region.
+0:05:44.800000 - 0:05:46.640000::So this will just be a fun little
+0:05:47.520000 - 0:05:50.800000::moment to show you what's possible if you study phonetics and whatnot.
+0:05:51.280000 - 0:05:51.680000::Right.
+0:05:52.960000 - 0:05:57.200000::Okay, so I'm walking up order in a sandwich.
+0:05:57.280000 - 0:05:58.320000::So this is classy.
+0:05:58.320000 - 0:05:59.120000::So I'm going up.
+0:05:59.120000 - 0:05:59.360000::I'm going.
+0:06:00.160000 - 0:06:00.800000::Hello there.
+0:06:02 - 0:06:06.640000::Can I have a, I'm all having a way of a sandwich for myself.
+0:06:06.640000 - 0:06:08.160000::Can I get some cheese on it?
+0:06:08.160000 - 0:06:08.960000::Hey, some guy.
+0:06:10 - 0:06:10.480000::How's that?
+0:06:10.480000 - 0:06:15.040000::Why do you, why do you, you sound like you, uh, I don't know, like a little boy.
+0:06:15.040000 - 0:06:17.760000::You sound like you have the thickest glasses on the planet.
+0:06:17.760000 - 0:06:22.960000::Like two wins, two wins thick glass with the office space coke bottle glasses.
+0:06:22.960000 - 0:06:24.320000::Maybe that's what the stapler.
+0:06:24.320000 - 0:06:27.120000::And what do you look so tiny right now?
+0:06:27.120000 - 0:06:29.600000::For some reason you look about eight inches tall, Nate.
+0:06:29.600000 - 0:06:30.400000::I don't know what it is.
+0:06:31.200000 - 0:06:31.600000::I don't know.
+0:06:31.600000 - 0:06:32.560000::I shrunk, dude.
+0:06:32.560000 - 0:06:33.520000::That was pretty good.
+0:06:34.080000 - 0:06:35.600000::That was really real good.
+0:06:35.600000 - 0:06:37.120000::Sometimes I can really go off.
+0:06:37.120000 - 0:06:39.040000::It's just like, it's a day to day thing.
+0:06:39.040000 - 0:06:41.040000::I feel like with British accents for me.
+0:06:41.040000 - 0:06:42.960000::Like I can really go in some days.
+0:06:43.520000 - 0:06:47.440000::But I really like that lower class that fucking poor peasant style.
+0:06:48.320000 - 0:06:49.200000::British accent.
+0:06:49.200000 - 0:06:50.800000::That's where I really can tap in.
+0:06:50.800000 - 0:06:51.920000::Roam big to it.
+0:06:52.560000 - 0:06:52.800000::Yeah.
+0:06:53.600000 - 0:06:54::Ron.
+0:06:54.480000 - 0:06:54.880000::Wrong.
+0:06:55.520000 - 0:06:57.280000::That sounds like it should have been a British guy.
+0:06:59.520000 - 0:07:00.080000::Okay.
+0:07:00.080000 - 0:07:00.800000::So all right.
+0:07:00.800000 - 0:07:01.040000::All right.
+0:07:01.040000 - 0:07:03.600000::Eric, you're you're stepping up to the plate.
+0:07:03.600000 - 0:07:04.080000::All right.
+0:07:04.080000 - 0:07:04.480000::All right.
+0:07:04.480000 - 0:07:04.640000::All right.
+0:07:06.480000 - 0:07:08.240000::I'm ordering a sandwich for what do you want me to do?
+0:07:09.600000 - 0:07:13.040000::I think I think you should go up and you're ordering a, uh,
+0:07:13.040000 - 0:07:14.480000::let's say let's keep it British style.
+0:07:14.480000 - 0:07:17.280000::You know, you're ordering a cup of tea, you know?
+0:07:17.280000 - 0:07:17.680000::Yeah.
+0:07:17.680000 - 0:07:18.480000::It's tea time.
+0:07:19.120000 - 0:07:19.520000::All right.
+0:07:21.120000 - 0:07:21.520000::Hello.
+0:07:25.360000 - 0:07:27.040000::Hi, uh, nice to meet you.
+0:07:27.920000 - 0:07:29.760000::Just just curious.
+0:07:29.760000 - 0:07:31.200000::Is, are you still serving tea?
+0:07:31.760000 - 0:07:32.640000::Are you closed?
+0:07:33.920000 - 0:07:36.720000::Why are all of our accents like the most beta,
+0:07:36.720000 - 0:07:40.080000::like the version of like, oh, you want to go alpha with it?
+0:07:40.080000 - 0:07:41.440000::I want, I want alpha.
+0:07:41.440000 - 0:07:42.320000::Oh, yeah.
+0:07:42.320000 - 0:07:43.280000::Hi, bitch.
+0:07:46.480000 - 0:07:47.520000::Are you closed?
+0:07:47.520000 - 0:07:48.080000::Do you walk in?
+0:07:49.440000 - 0:07:51.920000::Because the alpha is kind of the like Tom Hardy.
+0:07:52.560000 - 0:07:52.960000::Yeah.
+0:07:52.960000 - 0:07:53.680000::The baller.
+0:07:53.680000 - 0:07:54.160000::The jib.
+0:07:54.160000 - 0:07:57.120000::Boy, then you all gave me a fucking sandwich.
+0:07:57.120000 - 0:07:57.440000::Yeah.
+0:07:57.440000 - 0:07:58.240000::Hi.
+0:07:58.240000 - 0:07:59.440000::That's a little good fellas.
+0:08:00.160000 - 0:08:01.440000::A good fella's dish.
+0:08:01.440000 - 0:08:02.640000::That's the good bloke.
+0:08:02.640000 - 0:08:03.840000::That's the good bloke.
+0:08:04.800000 - 0:08:05.840000::All right, Jay.
+0:08:05.840000 - 0:08:06.400000::All right.
+0:08:06.400000 - 0:08:09.920000::So you want me to be ordering something else?
+0:08:09.920000 - 0:08:11.120000::Because we got food.
+0:08:11.120000 - 0:08:11.920000::We got a drink.
+0:08:11.920000 - 0:08:12.720000::Got a drink.
+0:08:12.720000 - 0:08:12.800000::Drink.
+0:08:12.800000 - 0:08:16.400000::You are ordering a surgery at a drive-through window.
+0:08:21.920000 - 0:08:24.480000::Eric just fucked around and said one of my old bits to me.
+0:08:26 - 0:08:26.960000::My goodness.
+0:08:26.960000 - 0:08:28.400000::You're burning material?
+0:08:28.400000 - 0:08:30::Eric's burning my old material.
+0:08:30 - 0:08:30.880000::I'll burn them for Jack.
+0:08:34.160000 - 0:08:35.920000::Yeah, that's one of my hilarious bits.
+0:08:37.120000 - 0:08:38::No, no, you are.
+0:08:38.800000 - 0:08:41.760000::You just got an offender bender with somebody in and see your fall
+0:08:41.760000 - 0:08:42.560000::and you're apologizing.
+0:08:43.760000 - 0:08:44.080000::Okay.
+0:08:47.520000 - 0:08:49.840000::Oh, man, right in the back of the head.
+0:08:49.920000 - 0:08:50.880000::I can't wait.
+0:08:50.880000 - 0:08:51.360000::Wait.
+0:08:51.360000 - 0:08:54.320000::Is that Australian?
+0:08:54.320000 - 0:08:55.920000::That might have been Australian.
+0:08:55.920000 - 0:08:56.880000::That was.
+0:08:56.880000 - 0:08:58.160000::I don't think I can do British.
+0:08:58.160000 - 0:08:59.600000::I think I only do Australian.
+0:08:59.600000 - 0:09:00.640000::Hello there.
+0:09:00.640000 - 0:09:01.120000::Wait.
+0:09:01.120000 - 0:09:01.600000::Yeah.
+0:09:01.600000 - 0:09:04.080000::I don't think I've ever heard you like do a accent.
+0:09:04.080000 - 0:09:04.560000::Right.
+0:09:04.560000 - 0:09:04.960000::You know what I mean?
+0:09:04.960000 - 0:09:05.360000::I'll tell you what.
+0:09:05.360000 - 0:09:06.560000::Wait, I'm pretty good,
+0:09:06.560000 - 0:09:07.920000::but I don't know what I'm doing always.
+0:09:08.640000 - 0:09:10.880000::And I, man, exchange what's happened here.
+0:09:10.880000 - 0:09:13.040000::Is I've just ran out right in the back of the head
+0:09:13.040000 - 0:09:14.080000::in the back of the car.
+0:09:14.080000 - 0:09:14.880000::Car here.
+0:09:15.440000 - 0:09:16.320000::Now what's happening?
+0:09:16.320000 - 0:09:17.440000::That's actually amazing.
+0:09:18.160000 - 0:09:20.320000::Well, I can't tell what which one I'm doing.
+0:09:22.160000 - 0:09:24.400000::You know, my parents had a family, a friend
+0:09:24.400000 - 0:09:27.600000::that they went to church with who went to London for two weeks
+0:09:28.800000 - 0:09:32.720000::and came back with a, like his attempt at a British accent
+0:09:32.720000 - 0:09:36.160000::and as if like he had like absorbed the culture so hard
+0:09:36.160000 - 0:09:38.480000::and he's still to this day speaks in that British.
+0:09:39.840000 - 0:09:40.800000::You know what I said, Axe?
+0:09:40.800000 - 0:09:42.960000::That's a mental, that's a mental deal.
+0:09:42.960000 - 0:09:43.440000::Yeah.
+0:09:43.440000 - 0:09:46.320000::You might have eaten some bad food that got, you know,
+0:09:46.400000 - 0:09:47.040000::you know what I'm saying?
+0:09:47.040000 - 0:09:48.800000::When you drink like water and it's got
+0:09:49.280000 - 0:09:51.520000::four toxins in the bacterium,
+0:09:51.520000 - 0:09:53.520000::I invade your brain and change you.
+0:09:53.520000 - 0:09:54.480000::Of course.
+0:09:54.480000 - 0:09:54.880000::Prayers.
+0:09:55.680000 - 0:09:56.720000::Prayers him.
+0:09:56.720000 - 0:09:57.680000::Prayers him.
+0:09:57.680000 - 0:09:59.840000::There's so many of my fans.
+
+0:10:00 - 0:10:04.480000::think about this of like your parents family friends. Most of them got to be down by this
+0:10:04.480000 - 0:10:10.240000::point down for the count dead. Most of our family are family friends. Just all those people
+0:10:10.240000 - 0:10:14.640000::you met at church when you were like six and they looked old as fuck. They're all. But
+0:10:14.640000 - 0:10:18.880000::you didn't get to the memo. Yeah, everybody I ever met growing up is probably dead at this
+0:10:18.880000 - 0:10:26.320000::point. Oh, man. God bless. This episode is about the royals and how much we love the coronation,
+0:10:26.320000 - 0:10:31.120000::how much we love process. But you know, and we were joking about the queen passing, but we were
+0:10:31.120000 - 0:10:36.720000::we were not ashamed to hear that, but saddened to hear that. Yeah, I heard she died much more
+0:10:36.720000 - 0:10:45.360000::painfully than we're led to believe. Yes, it was okay. That's one of my joke. That's one of my standup.
+0:10:45.360000 - 0:10:54.480000::God, we can just go into it. If we could just go start doing our standup now, it would just be
+0:10:54.480000 - 0:11:00.160000::yeah, why not? Let's do it. Do you think you can be here, man? A quick death though. I mean, we
+0:11:00.160000 - 0:11:06.400000::can get into it because I'm curious at that age, it might just be boom. Well, was the autopsy released?
+0:11:07.200000 - 0:11:14.320000::Let's Google it. Um, I don't think they're. I don't think I'd do it. No, they don't they don't
+0:11:14.320000 - 0:11:20.400000::they don't do the autopsy on the you're not allowed to the queen. No, no. I just I don't know. I just
+0:11:20.400000 - 0:11:25.040000::want to send love to the royal family right now because people are like I'm seeing people working
+0:11:25.040000 - 0:11:29.920000::class people get so pissed off about the royals and the expensive because of the coronation and
+0:11:30.880000 - 0:11:36.080000::and kind of the bad optics of, you know, wasting money on a single family that doesn't deserve it.
+0:11:37.200000 - 0:11:42.720000::But come on now. You know what I mean? We need these. We need these royals. Of course.
+0:11:42.720000 - 0:11:48.240000::Hey, I mean, it's what it is. It's human art. Like you go to New York City and you see what's the
+0:11:48.240000 - 0:11:54.160000::best thing that ever happened in New York City? The vessel in Hudson yards. It's this big metallic
+0:11:54.160000 - 0:11:59.600000::honeycomb looks like Halo Halo five honeycomb something. Yeah, yeah. And unfortunately it's shut down
+0:11:59.600000 - 0:12:06.080000::right now because a bunch of teenagers committed suicide off the top of it. But what a royal family is
+0:12:06.080000 - 0:12:15.520000::is essentially a human structure. It's an organic version of art that's made out of it's
+0:12:15.520000 - 0:12:24.240000::matter such as DNA, etc. Right. And you know what? Well, you mentioned art and I feel like art
+0:12:24.240000 - 0:12:30.480000::in royalty is so intertwined. Yeah. Because back in the day, you I don't think you could even
+0:12:30.480000 - 0:12:35.920000::create art without it being, you know, approval. Basically the headshot of the king, you know,
+0:12:35.920000 - 0:12:40.880000::you had to paint that. There was nothing. There was nothing that was art was so intertwined with
+0:12:40.880000 - 0:12:46.800000::religion and royalty. And there was never somebody just doodling like a picture of cat dogs or
+0:12:46.800000 - 0:12:51.040000::something like that or drawing like a dragon ball Z character. Like people didn't do that back then.
+0:12:51.040000 - 0:12:56.880000::Not as much. Not as much. But they wanted to. They wanted to. But they can. Right. Well, what is it
+0:12:56.960000 - 0:13:02.640000::that? Why is it that rich people love art so much and poor people don't like if you go to a museum,
+0:13:02.640000 - 0:13:08.960000::there's a hell of wings of the museum name. Right. Like the Sackler family exhibit. Right. Where are the
+0:13:08.960000 - 0:13:14.560000::poor people doing that? Why is that? Because when you're rich, you have all your essentials,
+0:13:14.560000 - 0:13:18.880000::except for maybe love, which you might not get through money. Which is what all of these
+0:13:18.880000 - 0:13:24.960000::millionaires don't realize is that money can't buy everything. Can't buy me love. People are
+0:13:24.960000 - 0:13:31.680000::thinking about whatever their next meal, whatever, all these things they can't be thinking about.
+0:13:31.680000 - 0:13:36.400000::They can't get to that mindset of art because they have focus. And that's a shame. That's why
+0:13:36.400000 - 0:13:41.840000::everybody should be rich. And the three of us live outside of the confines of rich or poor or
+0:13:41.840000 - 0:13:49.840000::anything. We're also middle class in the most best way. We're violently middle class. Yeah. No.
+0:13:52.080000 - 0:13:57.520000::Look at what I'm ahead. Look at what's on my head. Oh, you're a soldier. Dude, no, this is, well,
+0:13:57.520000 - 0:14:04.320000::this is expensive. I'm wearing Jack is wearing nice chain mail. Right. Fucking through that thing.
+0:14:04.320000 - 0:14:10.320000::It's not possible. Maybe through here. But oh yeah, for anybody like, okay. So Jack is wearing
+0:14:10.320000 - 0:14:14.480000::chain mail right now. Yeah. Sorry. Go ahead, Jack. What you're gonna know. Go ahead. Go ahead.
+0:14:15.200000 - 0:14:20.560000::That's what I'm gonna say. Like I was just gonna say like that is supposed to prevent a strike of
+0:14:20.560000 - 0:14:27.120000::a blade, right? About as if you were right or a sword. Oh yeah. That was right. But I feel like on the
+0:14:27.120000 - 0:14:36.880000::battlefield, like, we're like battles. Did they, did they kind of like outsmart like the, you know,
+0:14:36.880000 - 0:14:45.760000::the armor sort of situation. So it's like, I don't know why this man laughs so much. Just like a bunch of
+0:14:45.760000 - 0:14:50.800000::medieval soldiers and no one's dying because the armor's too good. And they're just like each other
+0:14:50.800000 - 0:14:57.360000::waiting. Like being the fucking shit out of each other with swords. But nobody's like getting
+0:14:57.360000 - 0:14:59.920000::down. Nobody's tired. It's
+
+0:15:00 - 0:15:06.040000::It's just, yeah, it's just who's tiring out which military fleet the quickest.
+0:15:06.040000 - 0:15:08.040000::And then you just, that seems like fun.
+0:15:08.040000 - 0:15:09.040000::That's a good time.
+0:15:09.040000 - 0:15:10.040000::I'm not on the flip side.
+0:15:10.040000 - 0:15:16::If you were like a noblemen's kid and you got right into that night's program at age
+0:15:16 - 0:15:20.440000::18, you skipped ahead, you got the nepotism knighthood and...
+0:15:20.440000 - 0:15:22.400000::Nepotism knighthood.
+0:15:22.400000 - 0:15:27.800000::Everybody else in the battlefield, whatever, they've earned their place on the front line.
+0:15:27.800000 - 0:15:32.880000::They've killed all these other people from other feudal estates.
+0:15:32.880000 - 0:15:36.040000::And you show up to the front lines in the most craziest golden armor.
+0:15:36.040000 - 0:15:37.040000::Oh, right.
+0:15:37.040000 - 0:15:41.440000::And you have a crazy golden sword and it's made to look like a dragon and you look terrifying
+0:15:41.440000 - 0:15:44.840000::but your five foot six, you didn't get enough vitamins back in the end.
+0:15:44.840000 - 0:15:45.840000::Well, that's big.
+0:15:45.840000 - 0:15:49.320000::And you're like, you put, you, I'm gonna show you what the fuck's up.
+0:15:49.320000 - 0:15:53.320000::And that's the first day at Cannonball gets unleashed and you get, you tell me you all
+0:15:53.320000 - 0:15:56.320000::blown out by Cannonball.
+0:15:56.320000 - 0:15:59.440000::The advancement of that war technology must have been raised.
+0:15:59.440000 - 0:16:02.160000::Yeah, I know we've talked about this before.
+0:16:02.160000 - 0:16:04.840000::And that's so funny to me.
+0:16:04.840000 - 0:16:05.840000::Like a fucking...
+0:16:05.840000 - 0:16:08.840000::I came up with an idea last night.
+0:16:08.840000 - 0:16:09.840000::What?
+0:16:09.840000 - 0:16:12.640000::A valuable military idea.
+0:16:12.640000 - 0:16:16.400000::I was hanging out with a chemist and we were talking about different chemical compounds
+0:16:16.400000 - 0:16:22.680000::and how you can use them to invent new drugs to give yourself not just visual hallucinations
+0:16:22.680000 - 0:16:25.320000::but auditory amongst others.
+0:16:25.320000 - 0:16:30.040000::Well, we were specifically, so on the topic of auditory hallucination, what you can do
+0:16:30.040000 - 0:16:33.560000::is you can take a pill and I don't know if I'm allowed to speak on this yet.
+0:16:33.560000 - 0:16:39.080000::So I'm not gonna say what the chemical compound is, but what you do is you take it and it
+0:16:39.080000 - 0:16:43.720000::completely distorts the way that you hear sound for about six hours.
+0:16:43.720000 - 0:16:44.720000::What?
+0:16:44.720000 - 0:16:45.720000::Yes.
+0:16:45.720000 - 0:16:46.840000::Fucking thank you.
+0:16:46.840000 - 0:16:50.480000::And I had this idea and if the government is listening, pay me.
+0:16:50.480000 - 0:16:51.720000::Which they are.
+0:16:51.720000 - 0:16:52.720000::Which they are.
+0:16:52.720000 - 0:16:55.240000::Which for sure.
+0:16:55.240000 - 0:17:01.840000::What you do is if there's an enemy area, you create a sound field that is so violently
+0:17:01.840000 - 0:17:08.440000::unlistenable to be in and then all the Americans take pills that filter out all the horrible
+0:17:08.440000 - 0:17:09.440000::noises.
+0:17:09.440000 - 0:17:14.600000::So they're the only people who can hear each other and that's gonna then while everyone
+0:17:14.600000 - 0:17:17.680000::can't hear, they're plugging their ears.
+0:17:17.680000 - 0:17:20.040000::That's when you come in and just start slicing next.
+0:17:20.040000 - 0:17:21.040000::Wow.
+0:17:21.040000 - 0:17:22.040000::Wow.
+0:17:22.040000 - 0:17:23.680000::Is that not a bad idea for them?
+0:17:23.680000 - 0:17:26.720000::I think they reverse Havana syndrome kind of.
+0:17:26.720000 - 0:17:28.800000::That's what we're speaking on as well.
+0:17:28.800000 - 0:17:35.280000::It's so interesting to me like the military frowns upon creativity and a frowns upon individualism.
+0:17:35.280000 - 0:17:36.280000::Wow.
+0:17:36.280000 - 0:17:37.800000::It's all about being a unit.
+0:17:37.800000 - 0:17:43.600000::But if they put more artists in these right, Titian roles, you know, joy tactics,
+0:17:43.600000 - 0:17:47.160000::whatever, strategist roles, we would have so many.
+0:17:47.160000 - 0:17:49.800000::We would destroy the enemies so quickly.
+0:17:49.800000 - 0:17:50.800000::Well look at the idea.
+0:17:50.800000 - 0:17:51.800000::The idea.
+0:17:51.800000 - 0:17:53.600000::The idea has an orchestra.
+0:17:53.600000 - 0:17:55.200000::The international, what do you see?
+0:17:55.200000 - 0:17:56.200000::Are you serious?
+0:17:56.200000 - 0:17:58.520000::I'm a Rayleigh defense fan.
+0:17:58.520000 - 0:17:59.520000::Yeah.
+0:17:59.520000 - 0:18:00.520000::I'm a meaglia.
+0:18:00.520000 - 0:18:02.520000::The I really defense meaglia.
+0:18:02.520000 - 0:18:03.520000::Okay.
+0:18:03.520000 - 0:18:04.520000::That's good.
+0:18:04.520000 - 0:18:05.520000::The laughs are very good.
+0:18:05.520000 - 0:18:06.520000::Thank you.
+0:18:06.520000 - 0:18:07.520000::Thank you guys.
+0:18:07.520000 - 0:18:08.520000::Yep.
+0:18:08.520000 - 0:18:09.520000::Italiano.
+0:18:09.520000 - 0:18:11.520000::What do they have?
+0:18:11.520000 - 0:18:12.520000::What?
+0:18:12.520000 - 0:18:16.320000::I think just the idea has flutes and saxophone rhythm guitar.
+0:18:16.320000 - 0:18:19.320000::I would be like really scared to see.
+0:18:19.320000 - 0:18:23.560000::You know, you know how you see like a viola, like people who play the violin, they have
+0:18:23.560000 - 0:18:30.560000::like a kind of twisted mind and you see a person when they play the violin and violin
+0:18:30.560000 - 0:18:33.360000::players are different than any other instrumentalist.
+0:18:33.360000 - 0:18:35.440000::Well they're vibrationally minded.
+0:18:35.440000 - 0:18:36.640000::They're vibrationally minded.
+0:18:36.640000 - 0:18:37.640000::Right.
+0:18:37.640000 - 0:18:38.640000::There's no frets.
+0:18:38.640000 - 0:18:39.640000::There's no separation of frets.
+0:18:39.640000 - 0:18:40.640000::Right.
+0:18:40.640000 - 0:18:41.640000::Just to tell you that.
+0:18:41.640000 - 0:18:42.640000::That's what I was saying.
+0:18:42.640000 - 0:18:45.080000::They're the most twisted individuals in the orchestra.
+0:18:45.080000 - 0:18:49.640000::And you see when they're playing their faces are all twitching and getting all fucked up.
+0:18:49.640000 - 0:18:52::And if you put one of those fuckers on, I get it.
+0:18:52 - 0:18:53.840000::Like put one of those people on the battlefield.
+0:18:53.840000 - 0:18:56.120000::Like they're like unpredictable.
+0:18:56.120000 - 0:19:00.080000::They're fucking, they have a fucked up brain and mentality, dude.
+0:19:00.080000 - 0:19:01.080000::That's who you want to have.
+0:19:01.080000 - 0:19:06.920000::They got the Baroque era like mentality where it's like, I'm gonna, if I'm interested in
+0:19:06.920000 - 0:19:13.440000::the violin, these are the types of people who want to go just kill people.
+0:19:13.440000 - 0:19:16.360000::You know how like Michelangelo de Caravaggio, right?
+0:19:16.360000 - 0:19:17.960000::If you look, listen to his life.
+0:19:17.960000 - 0:19:22.680000::I'm not sure he was making making a bunch of paintings for rich people.
+0:19:22.680000 - 0:19:24.720000::What do you call that commissioning?
+0:19:24.720000 - 0:19:29.520000::But a lot of his life story is just going around and getting drunk and stabbing people and
+0:19:29.520000 - 0:19:31::killing them.
+0:19:31 - 0:19:34.240000::And that was more of like, okay, because it was dual culture back then and it was all
+0:19:34.240000 - 0:19:35.240000::good.
+0:19:35.240000 - 0:19:37.240000::Like you just challenged someone and whoever wins wins.
+0:19:37.240000 - 0:19:41.720000::There's no like court, nothing like that.
+0:19:41.720000 - 0:19:42.720000::But I get that.
+0:19:42.720000 - 0:19:47.560000::I just saw a violinist over at the Russian semivar, lovely bar open, the New York City
+0:19:47.560000 - 0:19:50::area.
+0:19:50 - 0:19:57.240000::And yeah, he had hair that looked like it was growing out of all sides of his head,
+0:19:57.240000 - 0:20:00.040000::scaring the fuck out of me, moving his fingers off.
+
+0:20:00 - 0:20:06.160000::fast like a centipede. They can be bopping down in my chair. Have fun.
+0:20:07.320000 - 0:20:12.480000::Though there's something so emotional about like a violin, a fiddle. Have you ever
+0:20:12.480000 - 0:20:16.360000::heard someone go crazy on a fiddle? We don't really, we're obsessed with
+0:20:16.360000 - 0:20:21.720000::electronic and house music and dubstep and we've gotten so far away from the
+0:20:21.720000 - 0:20:25.440000::power of an acoustic instrument low in your mind.
+0:20:25.680000 - 0:20:28.640000::Yeah. Shout out to scary pool party.
+0:20:29.320000 - 0:20:33.200000::Oh, that was sick. Yeah, Jack and I recently went to a show and
+0:20:35.160000 - 0:20:40.440000::a scary pool party. He was by himself on the guitar and he was damn,
+0:20:40.440000 - 0:20:43.640000::remember how loud that was? That was assisted by some amplifiers.
+0:20:43.880000 - 0:20:47.520000::Sure. But people were bowling. It was that one of those the Brooklyn
+0:20:47.520000 - 0:20:53.040000::Bowl where you can bowl and listen to rock concerts. And I look it out of town.
+0:20:53.080000 - 0:20:57.200000::No, yeah, it's a literally during like some emotional moments of the like
+0:20:58.040000 - 0:21:01.160000::show you'll hear it's just like it's quiet for a second and you hear like
+0:21:02.160000 - 0:21:06.400000::the pins getting crushed. It's a crazy set up.
+0:21:06.520000 - 0:21:11.800000::Somebody's saying happy birthday right before this this scary pool party started
+0:21:11.800000 - 0:21:15.960000::their set, I believe. Yeah. Is that correct? Yeah. And that was funny.
+0:21:16.440000 - 0:21:20.600000::That was funny. But anyways, music is so past music is so very powerful.
+0:21:20.720000 - 0:21:24.480000::Music is more powerful than anything on the planet. Trust me.
+0:21:25.480000 - 0:21:28.560000::You go into the woods of a lost culture.
+0:21:28.920000 - 0:21:33.640000::Us culture. It says they're going to be singing lost culture. He says.
+0:21:34.440000 - 0:21:41::I just came up with that. I just came up with that. They'll be singing.
+0:21:41.120000 - 0:21:44.480000::You go everywhere in the world and they sing well. Have you ever seen the
+0:21:44.480000 - 0:21:51.360000::people singing who are out on the island? Is it? I feel like it's not
+0:21:51.360000 - 0:21:57.080000::loud. Maybe it's on one of the islands of Indonesia, perhaps.
+0:21:57.680000 - 0:22:01.720000::But there's rumored to be one of the last cannibal tribes and there's some
+0:22:01.720000 - 0:22:04.800000::other tribes that there are there that aren't cannibals. And one of our
+0:22:04.800000 - 0:22:07.680000::favorite content creators drew Binsky was there a while back.
+0:22:10.280000 - 0:22:13.560000::And these people are singing as they're walking around the forest.
+0:22:14.320000 - 0:22:18.200000::And I'm thinking every single one of these people sounds like Amy Winehouse.
+0:22:19.080000 - 0:22:21.320000::And it's not being recorded and monetized.
+0:22:23.040000 - 0:22:27.400000::We need to get microphones out into these woods and start sampling and remixing
+0:22:27.400000 - 0:22:31.960000::these people. Not I hate to see something go on monetize like that in the jungle.
+0:22:32.400000 - 0:22:36.840000::I bet there were some crazy singers back in the day. You know what I mean?
+0:22:36.840000 - 0:22:40.280000::We'll never know. We don't know about the amazing singers.
+0:22:40.520000 - 0:22:43.680000::That's the problem. They're named got written down, but like we don't know what they
+0:22:43.680000 - 0:22:48.720000::sounded like. If you could go back in time and start recording all these young
+0:22:48.720000 - 0:22:53.600000::hot 21 year olds that were. Whoa, whoa. I don't know why.
+0:22:54.960000 - 0:22:57.960000::Why? I want to I want to hit the ugly ass fucking.
+0:22:58.600000 - 0:23:01.840000::I just mean like like teen get the teen pop stars back.
+0:23:02.480000 - 0:23:06.400000::Oh, no, you don't think the teen pop stars of 1200.
+0:23:06.400000 - 0:23:08.960000::Whatever. Right. Right. The boy band. You know what I'm saying?
+0:23:08.960000 - 0:23:10.480000::Right. Right. Right. Right. Yeah.
+0:23:10.560000 - 0:23:14.080000::Well, the life expectancy was so much lower back than that a teen pop star is like a
+0:23:14.080000 - 0:23:16.480000::four year old. Right. Right. Right. Right. Right. Right. Right.
+0:23:16.480000 - 0:23:21.680000::And that which by the way, they can tear the four year old. Oh my god.
+0:23:21.960000 - 0:23:27.360000::They can sing too. Could you imagine like people lives people still lived to be like
+0:23:27.560000 - 0:23:33.040000::75 years old. It's just that like you imagine being like seven years old in a
+0:23:33.040000 - 0:23:39.600000::time when everyone lived to be. Oh my god. 27. You know, I think you're a god.
+0:23:39.600000 - 0:23:44::No, that would be great. You'd be like, is this going to end like is my life
+0:23:44 - 0:23:47.920000::ever going to end? Like I'm living forever pretty much. Like this is impossible.
+0:23:47.920000 - 0:23:52.240000::Yeah. This is possible. Wait, did you guys see that video?
+0:23:52.240000 - 0:23:57.120000::This was this popped up recently, but it was a British choir.
+0:23:57.400000 - 0:24:03.840000::And they were, they were singing. They were at the like some small bank in Britain.
+0:24:03.840000 - 0:24:07.520000::And they like stood up during one of their like shareholder meetings or something
+0:24:07.520000 - 0:24:13.360000::like that to protest. And they sang a parody of what's that?
+0:24:13.360000 - 0:24:18.160000::So that spice girl song like stop right now. Thank you very much.
+0:24:18.480000 - 0:24:22.800000::I need somebody with a they were like, they sang a parody of it.
+0:24:22.800000 - 0:24:27.800000::But it's like stop fossil fuels. And it's a bunch of British people like,
+0:24:27.800000 - 0:24:30.800000::they crushed it. Weird, weird, out style. They crushed it.
+0:24:30.800000 - 0:24:35.560000::They did a mid and like more people pop up as the songs pop in off like in the
+0:24:35.560000 - 0:24:37.160000::meeting. Right.
+0:24:37.160000 - 0:24:40.520000::And I'm like, man, what if that like changed the world? Like, you know,
+0:24:40.520000 - 0:24:44.720000::what if that one act like you don't know you don't just don't know.
+0:24:44.720000 - 0:24:48.920000::Okay. Nate. So you're in a room right now. You got Leonardo Caprio, Joe Biden.
+0:24:50.360000 - 0:24:52.960000::A lot of glazer comes to mind. Not sure why, but a bunch of really
+0:24:52.960000 - 0:24:58.480000::powerful drew Bensky, drew Barrymore, Galileo's back.
+0:24:58.840000 - 0:24:59.920000::All of these people basically do.
+
+0:25:00 - 0:25:03.760000::They're all chilling James Charles James. Yeah James
+0:25:04.880000 - 0:25:11.360000::So you and you get they make the sad unfortunate mistake of giving you the mic
+0:25:11.840000 - 0:25:13.840000::Maybe it's a wedding or something and
+0:25:14.800000 - 0:25:18.120000::You have you this is your moment to sing a parody
+0:25:19.640000 - 0:25:22.120000::I gotta come up with a parody song right
+0:25:26.280000 - 0:25:28.840000::Yeah, dude, all right, that's one of the easiest things name
+0:25:30 - 0:25:36.760000::You know, which is how I'm gonna hook you up. No, which is how I'm it wait. Yeah, let's pick a nice classy song
+0:25:37.920000 - 0:25:39.920000::Okay, fly me to the moon
+0:25:40.560000 - 0:25:43.200000::Did we say the same song Eric fly me to the moon?
+0:25:43.920000 - 0:25:49.080000::Well, it's gotta all right. Let me say the same song dude. That was awesome. All right moon run
+0:25:51.440000 - 0:25:56.560000::Okay, fly me to the moon and then but your cut but your cause and you're
+0:25:56.560000 - 0:26:03.600000::Some hilarious plastic spoons getting rid of plastic. Oh wait. I just hooked you up right there
+0:26:05.600000 - 0:26:10.160000::Wait, I'm protesting plastic spoons in this parody. Yeah, what are you Google?
+0:26:12.720000 - 0:26:15.520000::Get away these spoons
+0:26:16.960000 - 0:26:18.960000::Let get the wave
+0:26:18.960000 - 0:26:20.960000::Please no
+0:26:21.680000 - 0:26:27.440000::Plastic is not good. That's what Leonardo Caprio's bodyguard takes out the sawdoth
+0:26:32.160000 - 0:26:36.800000::During the parody fucking pop up if we ever had the opportunity to do any protests
+0:26:37.280000 - 0:26:44.080000::I think I think if the three of us ever and we will once we have the opportunity to make a feature film not that one's not already coming out this year
+0:26:45.040000 - 0:26:50.080000::What's basically what I'm saying is there's gonna be a lot of main characters getting murdered by a gun
+0:26:51.200000 - 0:26:53.200000::More than you'd realize oh, yeah
+0:26:55.360000 - 0:26:59.680000::Um, okay, if I was in that room, I don't think I'd do a parody if I wanted to make an impact
+0:26:59.680000 - 0:27:04.960000::They didn't know who the fuck I was I was surrounded by all the celebrities all of the policy makers all the lawmakers
+0:27:06.160000 - 0:27:11.280000::I would put a some type of amplifier on myself to make my voice much louder than it seemed
+0:27:11.360000 - 0:27:14::But it's hidden so they can't see where that why the sound is so loud
+0:27:15.280000 - 0:27:19.920000::And I would just get I would stand up and start kind of singing in some language knowns ever heard
+0:27:21.760000 - 0:27:23.760000::You know mean
+0:27:24.240000 - 0:27:26.240000::No
+0:27:26.720000 - 0:27:29.120000::That worked wing
+0:27:30.240000 - 0:27:35.840000::And then basically whatever I would disappear myself and myself somehow on a way now
+0:27:35.920000 - 0:27:38.400000::Finally, but in my life right there on the spot
+0:27:38.880000 - 0:27:42.560000::Erry and what the fun in my coat they would find a manuscript
+0:27:43.280000 - 0:27:48.320000::And the manuscript would have all of my my commands and would be saying like and violence
+0:27:49.120000 - 0:27:50.640000::and
+0:27:50.640000 - 0:27:54.080000::Global warming and this and this and they would be so terrified
+0:27:54.720000 - 0:27:59.040000::That they would think maybe I came from the future. Maybe I was very much more important than I had
+0:28:00 - 0:28:04.960000::Confused I do know what you're saying. You know what that started out like there's no way. This is gonna be a good idea
+0:28:05.520000 - 0:28:13.040000::But totally if you do some like stuff that can only be explained by you being from the future being gout god or something like that
+0:28:14.320000 - 0:28:16.320000::Yeah, that's a good idea
+0:28:16.320000 - 0:28:21.200000::They would choose all army and a different type of language. They would chuck your but they would cut to you
+0:28:21.200000 - 0:28:23.200000::It's like
+0:28:23.200000 - 0:28:26.160000::It's cut to you being chucked into a dumpster
+0:28:29.040000 - 0:28:34::They find a little piece of paper with some stuff some some band Margera scribbles on it and they crumpled it up and
+0:28:34.960000 - 0:28:37.760000::They throw your fucking ragged all body just body
+0:28:40.960000 - 0:28:42.960000::Like
+0:28:42.960000 - 0:28:44.960000::Authorities
+0:28:44.960000 - 0:28:48.480000::If the first alien comes to earth and they're in my line of sight
+0:28:49.040000 - 0:28:53.680000::What am I gonna do am I gonna record whatever this in that? I'm gonna bully you mean the million
+0:28:54.240000 - 0:29:01.040000::Ali in the course of course if I see an alien and it's our first like interaction publicly or whatever
+0:29:01.440000 - 0:29:03.840000::I'm gonna humiliate the fuck out of them
+0:29:04.320000 - 0:29:12.320000::That's my plan. I'm gonna just put them barbecue donterio hunt a hundred style. Oh, what happened to him? He was so fun
+0:29:15.440000 - 0:29:19.200000::You're obsessed with him Nate you were alone who showed me him donterio
+0:29:19.760000 - 0:29:22.160000::Hunn I think it's hunting h-u-l-b
+0:29:22.960000 - 0:29:29.440000::Oh, and just look him up. He is from Chicago and he is the best roaster
+0:29:29.920000 - 0:29:35.360000::Talk about Don Rickles like move aside. Yeah, this is the modern day Don Rickles. Who by the way is yeah
+0:29:36.400000 - 0:29:43.840000::Fucking I love Don Rickles. Oh Don Rick. Oh, you mean this Don Rickles dude or Riz than any person
+0:29:44.480000 - 0:29:53.760000::Rickles book he looks like the you all remember when Tommy pickles had a dream or something about having a new sibling and they're like this big scary baby monster
+0:29:55.120000 - 0:29:57.120000::No, no, all right
+0:29:57.120000 - 0:29:59.200000::All right
+
+0:30:00 - 0:30:02::Yeah, no, not really.
+0:30:02 - 0:30:09::Dude, Eric, I did a bit one time in Chicago where I was loud, and I hid one of those
+0:30:09 - 0:30:11::tour guide microphones in my shirt.
+0:30:11 - 0:30:12::You did?
+0:30:12 - 0:30:15::Yeah, so I was, I was unexplainably loud.
+0:30:15 - 0:30:17::This was the loudness.
+0:30:17 - 0:30:20::Oddly enough, yeah.
+0:30:20 - 0:30:21::The loudness live?
+0:30:21 - 0:30:26::Well, back then it was loudness pizza, and that was when Conor O'Malley shot I was in town,
+0:30:26 - 0:30:32::and I got a bunch of thrown away metal trays and people come order pizza and it would be
+0:30:32 - 0:30:34::all loud.
+0:30:34 - 0:30:35::Sketch.
+0:30:35 - 0:30:37::Shout out to Sketch Comedy, the royalist form of comedy.
+0:30:37 - 0:30:42.480000::Jack, you just sent Nate in that video of a Holyfoot sketch that we did with our, what was
+0:30:42.480000 - 0:30:44::it, the tape clothesmen?
+0:30:44 - 0:30:45::Tape clothesmen.
+0:30:45 - 0:30:46::Alright, so I would do this.
+0:30:46 - 0:30:48.600000::I'll let you in on a little bit of my process.
+0:30:48.600000 - 0:30:51::This is a little behind the scenes Chicago.
+0:30:51 - 0:30:55::Pretty much every week we had a wonderful show called the Holyfoot Comedy Hour and do
+0:30:55 - 0:31:02::Sketch show every week and with a big, a big old cast and I'll usually use the setup of,
+0:31:02 - 0:31:06.500000::I would be a boyfriend meeting a family for the first time, but something would be off
+0:31:06.500000 - 0:31:07.500000::about me.
+0:31:07.500000 - 0:31:11.800000::And one of those times I did something called the tape clothesmen's where I taped my clothes
+0:31:11.800000 - 0:31:15.100000::onto the front of my body and the back was all naked.
+0:31:15.100000 - 0:31:20.200000::And then I got the good idea for me to be normal, do it again, but this time I'm normal
+0:31:20.200000 - 0:31:25.200000::and I'm weirded out because all the other six people on stage are all tape clothesmen's
+0:31:25.200000 - 0:31:30.200000::and Nate and Eric went there with the booties out and Nate, Nate, you stopped doing any type
+0:31:30.200000 - 0:31:31.200000::of interaction.
+0:31:31.200000 - 0:31:36.500000::You just stood down stage, center, turned around and started just flexing and unflexing
+0:31:36.500000 - 0:31:37.500000::your booty.
+0:31:37.500000 - 0:31:39.400000::Oh my God, the wrinkly butt.
+0:31:39.400000 - 0:31:40.400000::You had that wrinkly booty.
+0:31:40.400000 - 0:31:42.400000::I had that wrinkly thing.
+0:31:42.400000 - 0:31:44.400000::That was enjoyable.
+0:31:44.400000 - 0:31:51.400000::My ass is so back then at least was so little, I had that little hand kill build, but now
+0:31:51.400000 - 0:31:53.400000::you got the VBL.
+0:31:53.400000 - 0:31:55.400000::Now you got that B.M.
+0:31:55.400000 - 0:31:57.400000::You got the mountain Vernon ass.
+0:31:57.400000 - 0:31:59.400000::You got that dog.
+0:31:59.400000 - 0:32:01.400000::Well, what's the most creative?
+0:32:01.400000 - 0:32:07.400000::I took an improv class with the guy that had the fattest ass I've ever seen.
+0:32:07.400000 - 0:32:09.400000::And everybody comments, it was the crew.
+0:32:09.400000 - 0:32:16.400000::I can't prove it to you, but this guy had one fat ass shout out to him for him.
+0:32:16.400000 - 0:32:17.400000::Good for him.
+0:32:17.400000 - 0:32:18.400000::We can move on.
+0:32:18.400000 - 0:32:22.400000::I do want to get thick as fuck like I was.
+0:32:22.400000 - 0:32:25.400000::Do you really want to gain mass, Nate?
+0:32:25.400000 - 0:32:27.400000::Yeah, I feel like yes.
+0:32:27.400000 - 0:32:29.400000::What is anything on the planet?
+0:32:29.400000 - 0:32:30.400000::I don't think it's possible.
+0:32:30.400000 - 0:32:31.400000::Anything is possible.
+0:32:31.400000 - 0:32:33.400000::It's of course, it's possible.
+0:32:33.400000 - 0:32:35.400000::I don't think it is.
+0:32:35.400000 - 0:32:38.400000::The way my ass is structured and shaped, it just feels like.
+0:32:38.400000 - 0:32:41.400000::Just want to gain muscle or mass on your ass.
+0:32:41.400000 - 0:32:44.400000::I want to gain mass on my ass.
+0:32:44.400000 - 0:32:45.400000::Uh oh, start the beat.
+0:32:45.400000 - 0:32:46.400000::Start the beat.
+0:32:46.400000 - 0:32:48.400000::Mass on my ass.
+0:32:48.400000 - 0:32:50.400000::Slub on my ass.
+0:32:50.400000 - 0:32:51.400000::Slub on my ass.
+0:32:51.400000 - 0:32:54.400000::I was like about to start and I ran out of gas on videos.
+0:32:54.400000 - 0:32:55.400000::Mass on my ass.
+0:32:55.400000 - 0:32:57.400000::Don't beat crass.
+0:32:57.400000 - 0:32:59.400000::Your ass is crass.
+0:32:59.400000 - 0:33:04.400000::Remember that game to do run run, the improv game?
+0:33:04.400000 - 0:33:06.400000::No, I didn't ever do embarrassing shit like that.
+0:33:06.400000 - 0:33:07.400000::Let's talk about something else.
+0:33:07.400000 - 0:33:08.400000::Yeah, let's see something else.
+0:33:08.400000 - 0:33:11.400000::By the way, I think there's, do you guys see a bow is afraid that?
+0:33:11.400000 - 0:33:12.400000::No, I didn't see that.
+0:33:12.400000 - 0:33:14.400000::No, not yet, not yet.
+0:33:14.400000 - 0:33:16.400000::This is, this is going to ruin something.
+0:33:16.400000 - 0:33:17.400000::No, it's like something.
+0:33:17.400000 - 0:33:21.400000::Well, don't, but it's going to, I think they play, there's like a zip-sap-zop game going
+0:33:21.400000 - 0:33:23.400000::on that I saw off the side.
+0:33:23.400000 - 0:33:25.400000::You know, yeah, zip-zap-zap.
+0:33:25.400000 - 0:33:26.400000::Zip-zap-zap.
+0:33:26.400000 - 0:33:29.400000::I'd rather play smoke smoke smoke and chill out.
+0:33:29.400000 - 0:33:30.400000::Yeah, absolutely.
+0:33:30.400000 - 0:33:31.400000::I'd rather play smoke smoke and chill out.
+0:33:31.400000 - 0:33:32.400000::Yeah, absolutely.
+0:33:32.400000 - 0:33:33.400000::Drink drink drink drink drink drink drink.
+0:33:33.400000 - 0:33:34.400000::I don't do shit like that.
+0:33:34.400000 - 0:33:39.400000::At some point, I'm always up in the stand-up clubs even when I was nine.
+0:33:39.400000 - 0:33:47.400000::That's all you guys, when I was in, you know, in sixth grade through high school, like everyone
+0:33:47.400000 - 0:33:52.400000::was like, oh, you're so funny, Nate, like you should do stand-up and everyone would tell me that,
+0:33:52.400000 - 0:33:59.400000::like, because I was like the ridiculous kid, I was, I was acting fool on the bus in the classroom.
+0:33:59.400000 - 0:34:01.400000::Everyone was like, you need to do stand-up.
+0:34:01.400000 - 0:34:03.400000::You should go by the ridiculous kid.
+0:34:03.400000 - 0:34:04.400000::That sounds ridiculous.
+0:34:04.400000 - 0:34:07.400000::The ridiculous kid.
+0:34:07.400000 - 0:34:14.400000::And I was like, I had this vision of myself where I was like, gonna go to, there's this club
+0:34:14.400000 - 0:34:16.400000::called the Funny Bone in Columbus.
+0:34:16.400000 - 0:34:21.400000::And I don't know if it's still there, but it's like a chain, stand-up chain.
+0:34:21.400000 - 0:34:24.400000::And I was like, I'm just gonna go there one night and I had no idea how it worked.
+0:34:24.400000 - 0:34:26.400000::I thought I could just like show up.
+0:34:26.400000 - 0:34:30.400000::Like, I think I had the idea of like an open mic in my head and I thought they were just going on every night.
+0:34:31.400000 - 0:34:37.400000::And I was like, and I wrote out this entire stand-up set that would have, if I would have done this,
+0:34:37.400000 - 0:34:42.400000::I would have been scarred for life and never done comedy ever again.
+0:34:42.400000 - 0:34:44.400000::Like, what were some of the jokes?
+0:34:44.400000 - 0:34:51.400000::It was like, I had this whole bit that I had gotten robbed, like, on the way over to the stand-up.
+0:34:51.400000 - 0:34:52.400000::Maybe people, you know what?
+0:34:52.400000 - 0:34:57.400000::I've seen kids do stand-up and I probably would have crushed just out of like people, like, you know,
+0:34:57.400000 - 0:35:00.400000::when a child gets up at a...
+
+0:35:00 - 0:35:03.800000::at a stand-up event for adults, which I've seen happen before.
+0:35:03.800000 - 0:35:07.800000::Everyone just is like, oh, this is so funny that you're even here,
+0:35:07.800000 - 0:35:09.200000::and we're gonna give you the benefit of the doubt,
+0:35:09.200000 - 0:35:12.200000::because I don't, you're heckling that.
+0:35:12.200000 - 0:35:13.200000::I'll heckle them if it sucks.
+0:35:13.200000 - 0:35:20.200000::But I would have just been just so embarrassed
+0:35:20.200000 - 0:35:21.800000::if I would have done this set.
+0:35:21.800000 - 0:35:24.600000::But I had this folder of all these jokes.
+0:35:24.600000 - 0:35:27.400000::I would write stand-up jokes all throughout high school,
+0:35:27.400000 - 0:35:31.200000::and I had this huge folder of like a set.
+0:35:31.200000 - 0:35:34.600000::And they were just, they were bad.
+0:35:34.600000 - 0:35:35.800000::That's all right, man.
+0:35:35.800000 - 0:35:37.400000::Yeah.
+0:35:37.400000 - 0:35:41::That made me think of a moment of humiliation for me.
+0:35:41 - 0:35:43::That probably should have stopped me from performing,
+0:35:43 - 0:35:44::but it didn't.
+0:35:44 - 0:35:45.800000::But it didn't, because you have this.
+0:35:45.800000 - 0:35:49.800000::You have nothing can take away your creative spirit.
+0:35:49.800000 - 0:35:50.600000::It can't.
+0:35:50.600000 - 0:35:51.600000::No, it really can't.
+0:35:51.600000 - 0:35:55.200000::Nothing can take it away, not even death.
+0:35:55.400000 - 0:35:59.400000::But no, there's just, there's a thing called Mr. E. W. H. S.
+0:35:59.400000 - 0:36:02.400000::Mr. Evans would weigh high school every year.
+0:36:02.400000 - 0:36:04::That was like, I think you probably had this,
+0:36:04 - 0:36:05.200000::something like this at your high school,
+0:36:05.200000 - 0:36:08.200000::where like a bunch of guys compete to become
+0:36:08.200000 - 0:36:11.600000::the Mr. Swag of the high school, whatever.
+0:36:11.600000 - 0:36:14.400000::Doing it's like a talent show, just for guys, have you seen this?
+0:36:14.400000 - 0:36:15.400000::What?
+0:36:15.400000 - 0:36:17.400000::An all-male talent show.
+0:36:17.400000 - 0:36:18.800000::Yeah, you guys didn't have any of these.
+0:36:18.800000 - 0:36:20.400000::You become Mr. High School.
+0:36:20.400000 - 0:36:22.600000::This is when you realize this is not happening anywhere
+0:36:22.600000 - 0:36:23.600000::except your...
+0:36:23.600000 - 0:36:26.800000::You know, I didn't have that and you had all those kind of like predatory agents come
+0:36:26.800000 - 0:36:28.200000::and like, what the fuck?
+0:36:28.200000 - 0:36:29.200000::What?
+0:36:29.200000 - 0:36:30.200000::No, no.
+0:36:30.200000 - 0:36:33.200000::It was just like a fun like...
+0:36:33.200000 - 0:36:36.200000::I mean, it was a blast, one of the best things I've ever been a part of.
+0:36:36.200000 - 0:36:39.800000::No, but it's like a, it's like, I don't know how to explain it.
+0:36:39.800000 - 0:36:44.800000::But this guy, I think I've told the story here before of how I would sit at like the popular
+0:36:44.800000 - 0:36:50::kids' table at the end of the, at the end of the table and just not say a word,
+0:36:50 - 0:36:52::because I could find it anywhere, just sit.
+0:36:52.800000 - 0:36:53.800000::What the hell?
+0:36:53.800000 - 0:36:57.800000::And like, was always to afraid to say some loser behavior.
+0:36:57.800000 - 0:37:02.200000::And one of them was like kind of nice to me and he was doing Mr. EWHS.
+0:37:02.200000 - 0:37:05.200000::So he asked one of the other popular kids, he's like,
+0:37:05.200000 - 0:37:10.800000::I want to like, guy dancers on the side of me as I do like my song or something.
+0:37:10.800000 - 0:37:14.200000::And so I was like, okay, we'll get the outfits together and like, you know,
+0:37:14.200000 - 0:37:17.800000::I told a humiliating story on the Patreon episode last time about Jean Shorts.
+0:37:17.800000 - 0:37:20.200000::Well, I'm wearing Jean Shorts again in this.
+0:37:20.600000 - 0:37:25.600000::And the idea was we'd be on stage like dance with him and being all funny that we're dancing in short shorts.
+0:37:25.600000 - 0:37:27.600000::Uh, in the year 2008.
+0:37:27.600000 - 0:37:28.600000::Yeah.
+0:37:28.600000 - 0:37:33.600000::In the way that the stage was set up, all the other like kind of popular kid got in the light.
+0:37:33.600000 - 0:37:37.200000::And he was like, looked at me and he's like, you could go over there and just do it kind of over there.
+0:37:37.200000 - 0:37:40::And he was like in the dark behind one of the pillars.
+0:37:40 - 0:37:44.600000::And so when he went and did his song, we were supposed to be as like backup dancers.
+0:37:44.600000 - 0:37:50::But I was so in the dark and behind the pillar that I can guarantee you almost nobody saw me doing my thing.
+0:37:50 - 0:37:52.400000::And I was dancing, moving my hips all around.
+0:37:52.400000 - 0:37:55.400000::But I can guarantee you no one saw my ass.
+0:37:55.400000 - 0:38:02.400000::And I remember just getting all feeling so red, hot as a red as a beat, sweat and it's.
+0:38:02.400000 - 0:38:05::We have to go through these things.
+0:38:05 - 0:38:09.400000::We have to go through these things that are humiliating and make you feel low.
+0:38:09.400000 - 0:38:12.400000::And can I say real quick about some back from?
+0:38:12.400000 - 0:38:19.400000::Can I just say that you mentioned a story that you had told on the previous episode, which is on Patreon, which is through our.
+0:38:19.400000 - 0:38:21.800000::We put out our first E course.
+0:38:21.800000 - 0:38:22.800000::Yes.
+0:38:22.800000 - 0:38:24.800000::People and I love the fuck out of that one.
+0:38:24.800000 - 0:38:25.800000::And I am.
+0:38:25.800000 - 0:38:26.800000::Can't explain.
+0:38:26.800000 - 0:38:27.800000::I mean, I knew this.
+0:38:27.800000 - 0:38:30::I knew that this was going to change people's lives.
+0:38:30 - 0:38:31.200000::And you guys all doubted me.
+0:38:31.200000 - 0:38:32.200000::You guys like this.
+0:38:32.200000 - 0:38:33.200000::You know, maybe.
+0:38:33.200000 - 0:38:45.400000::But the amount of the support and the life changing testimonies that have came in from the patrons has been just.
+0:38:45.400000 - 0:38:47.200000::It's downing.
+0:38:47.200000 - 0:38:48.800000::It's downing.
+0:38:48.800000 - 0:38:51.200000::It's clinically and wonderful.
+0:38:51.200000 - 0:38:59.200000::Can I say I think we're going to continue this E course series in the next topic I think is going to be grief.
+0:38:59.200000 - 0:39:08::So if you've lost somebody or if you're planning on losing somebody pretty soon, you're going to want to sign up and see what the fuck we have to say about losing people.
+0:39:08 - 0:39:12.100000::And even if it's not a person, by the way, you can
+0:39:12.100000 - 0:39:14.500000::agree a piece of your personality, a plant.
+0:39:14.500000 - 0:39:15.500000::Yeah.
+0:39:15.500000 - 0:39:18.500000::A furniture dignity food.
+0:39:18.500000 - 0:39:20.500000::Yeah.
+0:39:20.500000 - 0:39:24.500000::And this is all going to be an Eric Solo episode.
+0:39:24.500000 - 0:39:25.500000::Yeah.
+0:39:25.500000 - 0:39:27.900000::Well, I have a sort of a one man.
+0:39:27.900000 - 0:39:29.700000::I have a like a two hour monologue.
+0:39:29.700000 - 0:39:31.700000::I do about three.
+0:39:31.700000 - 0:39:35.700000::And I wrote it before I lost anybody, but it's still a lot of truth.
+0:39:35.700000 - 0:39:37.900000::It's not a it's not a show.
+0:39:37.900000 - 0:39:39.100000::It's not a live show.
+0:39:39.100000 - 0:39:42.500000::He does it's like something for us over dinner and stuff like that.
+0:39:42.500000 - 0:39:43.500000::Yeah.
+0:39:43.500000 - 0:39:49.300000::But since you lost many people weirdly, ironically, I lost many people's after post post writing that monologue.
+0:39:49.300000 - 0:39:51.700000::So it's kind of weird to see where you're at now.
+0:39:51.700000 - 0:39:57.700000::You're ready after losing so many friends and the universe picked you because you're brave.
+0:39:57.700000 - 0:39:59.900000::And I'll tell an embarrassing story.
+
+0:40:00 - 0:40:01.640000::Let's hear it please.
+0:40:01.640000 - 0:40:02.840000::Here we go.
+0:40:02.840000 - 0:40:07.440000::Well, the first ever open mic I did, let's just say it wasn't an open mic.
+0:40:07.440000 - 0:40:08.440000::Whoops.
+0:40:08.440000 - 0:40:13.880000::I was about something years old, maybe 17 or so out Washington, DC.
+0:40:13.880000 - 0:40:20.200000::I go, I find this bar, Irish bar that has a comedy night kind of.
+0:40:20.200000 - 0:40:21.520000::And so there is a standup show.
+0:40:21.520000 - 0:40:27.040000::And then before that, there was a competition and whoever had the funniest joke, you know,
+0:40:27.040000 - 0:40:30.200000::like 20 bucks worth of free drinks or something.
+0:40:30.200000 - 0:40:34.920000::And I thought that meant it was like an open mic competition, but it was like drunk people
+0:40:34.920000 - 0:40:39.800000::from the audience would get on stage and tell one joke, like a one liner that you've heard
+0:40:39.800000 - 0:40:42.400000::before.
+0:40:42.400000 - 0:40:46.320000::Not even a minute, not even 30 seconds, you know.
+0:40:46.320000 - 0:40:53.560000::And I went up there and I did like a three minute set and crushed.
+0:40:53.560000 - 0:40:54.880000::No.
+0:40:54.880000 - 0:40:55.880000::I didn't crush.
+0:40:55.880000 - 0:40:58.320000::It wasn't even what was going on.
+0:40:58.320000 - 0:41:00.960000::So everyone was just kind of worried.
+0:41:00.960000 - 0:41:07.120000::You know, I think everybody knew what was happening to me and we all decided to get through it.
+0:41:07.120000 - 0:41:11.960000::I was doing, I think some jokes about maybe Scott Pilgrim or something.
+0:41:11.960000 - 0:41:13.920000::I can't remember.
+0:41:13.920000 - 0:41:15.840000::And that didn't phase me at all.
+0:41:15.840000 - 0:41:19.520000::And I think that's how I knew I was built for this because it was just kind of the next
+0:41:19.520000 - 0:41:21.160000::thing that I wasn't good at.
+0:41:21.160000 - 0:41:22.880000::It was like, okay.
+0:41:22.880000 - 0:41:27.280000::I wasn't that didn't go well, but same, same with all the other stuff.
+0:41:27.280000 - 0:41:29.680000::So whatever.
+0:41:29.680000 - 0:41:32.880000::And that's how I knew I could do this y'all because I could be really bad.
+0:41:32.880000 - 0:41:34.360000::Kids, you could handle the.
+0:41:34.360000 - 0:41:35.360000::Yeah.
+0:41:35.360000 - 0:41:36.560000::That's the main skill.
+0:41:36.560000 - 0:41:39.120000::That's what they say about proskators.
+0:41:39.120000 - 0:41:41.360000::They say this about proscape borders.
+0:41:41.360000 - 0:41:45.600000::What they're really good at is it's what they're really good at is.
+0:41:45.600000 - 0:41:47.400000::It's falling.
+0:41:47.400000 - 0:41:50.440000::They know how to fall with know how to fall without getting hurt.
+0:41:50.440000 - 0:41:51.440000::Oh.
+0:41:51.440000 - 0:41:56.840000::And that is kind of, I think that's what I would say I'm good at, but I think I do get
+0:41:56.840000 - 0:41:57.840000::hurt when I fall.
+0:41:57.840000 - 0:42:00.320000::I think I'm a little sensitive.
+0:42:00.320000 - 0:42:01.320000::No.
+0:42:01.320000 - 0:42:02.320000::Yeah.
+0:42:02.320000 - 0:42:05.920000::Why did the, we're the, like, Canadians are the most sensitive people on the planet.
+0:42:05.920000 - 0:42:12.200000::But yeah, we are in the business of public humiliation and pain.
+0:42:12.200000 - 0:42:18.160000::And that's basically you get more pain than pleasure, more pain than success.
+0:42:18.160000 - 0:42:22.400000::It's all 100% just complete humiliation.
+0:42:22.400000 - 0:42:26.240000::Well, you know, we do it not for ourselves, but for others, which is, I think, the most
+0:42:26.240000 - 0:42:27.240000::important thing.
+0:42:27.240000 - 0:42:29.080000::Like, why do y'all think we're doing this?
+0:42:29.080000 - 0:42:30.080000::Why?
+0:42:30.080000 - 0:42:31.760000::Because like, I don't give a fuck about podcasting.
+0:42:31.760000 - 0:42:35.800000::I want to be silent and be sleeping all the time.
+0:42:35.800000 - 0:42:37.480000::But I'm doing this.
+0:42:37.480000 - 0:42:41.320000::Before we did podcast, Eric was just like basically a monk.
+0:42:41.320000 - 0:42:46.880000::Like, yeah, we pulled Eric out the straight out of, yeah, to bet, out the mountains of Tibet.
+0:42:46.880000 - 0:42:49.040000::And he was ready to go.
+0:42:49.040000 - 0:42:51.280000::I want to try that crazy honey.
+0:42:51.280000 - 0:42:52.920000::Everything bet that crazy.
+0:42:52.920000 - 0:42:53.920000::That's honey.
+0:42:53.920000 - 0:42:54.920000::You can buy that.
+0:42:54.920000 - 0:42:58.320000::That psycho that online, that psychedelic honey.
+0:42:58.320000 - 0:43:00.680000::I want to dunk a whole big Mac in it.
+0:43:00.680000 - 0:43:06.760000::The biggest honey is the biggest honey is the biggest, most honey is dip anyone's ever
+0:43:06.760000 - 0:43:07.760000::done.
+0:43:07.760000 - 0:43:08.760000::Is that a world record yet?
+0:43:08.760000 - 0:43:09.760000::Biggest honey dip.
+0:43:09.760000 - 0:43:10.760000::Probably not.
+0:43:10.760000 - 0:43:11.760000::That's hurt.
+0:43:11.760000 - 0:43:12.760000::It hurt my teeth.
+0:43:12.760000 - 0:43:13.760000::You got to be.
+0:43:13.760000 - 0:43:16.520000::We should do a mukbang with honey comb.
+0:43:16.520000 - 0:43:17.520000::I would love to do it.
+0:43:17.520000 - 0:43:23.920000::We should do the, yeah, like the ASMR based, because we did McDonald's, but yeah, one that's
+0:43:23.920000 - 0:43:25.160000::more aesthetic.
+0:43:25.160000 - 0:43:26.160000::Yeah.
+0:43:26.160000 - 0:43:27.160000::Leave it in the chat.
+0:43:27.160000 - 0:43:28.480000::What do you want to see us crunch on?
+0:43:28.480000 - 0:43:29.480000::Honeycombs?
+0:43:29.480000 - 0:43:30.480000::Right.
+0:43:30.480000 - 0:43:36.720000::Do you guys know that beekeepers live the longest of any profession?
+0:43:36.720000 - 0:43:37.720000::And why?
+0:43:37.720000 - 0:43:40.560000::And yeah, and yeah, they're so endangered because of the stings.
+0:43:40.560000 - 0:43:42.840000::Well, I can explain it to you.
+0:43:42.840000 - 0:43:44.360000::Can I explain it to you?
+0:43:44.360000 - 0:43:45.360000::Please.
+0:43:45.360000 - 0:43:46.360000::You guys both know this?
+0:43:46.720000 - 0:43:50::I think it's because it has to do with stress.
+0:43:50 - 0:43:53.720000::And these people are working a high stress job where they have little bugs with needles
+0:43:53.720000 - 0:43:56.720000::on their asses trying to get all up on them all the time.
+0:43:56.720000 - 0:43:57.720000::Sting them.
+0:43:57.720000 - 0:44:02.480000::And these beekeepers have to be, they have to relax the shoulders.
+0:44:02.480000 - 0:44:05.320000::They have to breathe out slowly.
+0:44:05.320000 - 0:44:09.440000::They have to just breathe and get the work fucking done.
+0:44:09.440000 - 0:44:11.240000::And they don't have time to be stressed.
+0:44:11.240000 - 0:44:15.800000::The stress actually is toxic to their profession.
+0:44:15.800000 - 0:44:16.800000::And so they can't be stressed.
+0:44:16.800000 - 0:44:18.640000::So they have low heart rates.
+0:44:18.640000 - 0:44:20.560000::They've got amazing blood pressure.
+0:44:20.560000 - 0:44:21.560000::Is that correct?
+0:44:21.560000 - 0:44:23.320000::That's actually wrong, Eric.
+0:44:23.320000 - 0:44:24.320000::But why?
+0:44:24.320000 - 0:44:27.120000::That's not why that's completely wrong.
+0:44:27.120000 - 0:44:28.120000::And I don't know.
+0:44:28.120000 - 0:44:29.120000::I don't know.
+0:44:29.120000 - 0:44:31.840000::Why don't you go ahead and give a guess.
+0:44:31.840000 - 0:44:33.520000::Why are beekeepers?
+0:44:33.520000 - 0:44:38.080000::Why do they live the longest of any profession?
+0:44:38.080000 - 0:44:40.960000::Because they don't get, okay, I have a couple guesses.
+0:44:40.960000 - 0:44:41.960000::One is that they don't get one.
+0:44:41.960000 - 0:44:44.040000::All right, well, let me do three.
+0:44:44.040000 - 0:44:46.520000::One is because they don't get into it till they're 100.
+0:44:46.520000 - 0:44:52.960000::Another one is because they walk around a lot in nature where the oxygen is amazing.
+0:44:52.960000 - 0:44:57.440000::Another guess is that maybe honey is good for you.
+0:44:57.440000 - 0:44:59.760000::Another guess is that you're done.
+0:44:59.760000 - 0:45:00.760000::No more.
+
+0:45:00 - 0:45:06.560000::Yeses. Okay, so let me just assess all of them. The first was wrong. Second was wrong. Third was wrong. Here's what's going on
+0:45:07.800000 - 0:45:08.800000::Roodle
+0:45:08.800000 - 0:45:15.880000::That don't ever be a teacher. You got the yeah, yeah, you're hurting us. Do you we're trying not feeling good about this?
+0:45:15.880000 - 0:45:23::This is why beekeepers live the longest is because bees emit some sort of frequency
+0:45:23.480000 - 0:45:27.680000::No, and this frequency is a healing frequency
+0:45:27.680000 - 0:45:33.840000::I'm buying these why do bees why do we need bees to basically?
+0:45:35.600000 - 0:45:41.240000::Fertilize flowers and they make the world go around we need the bees right aren't they in a crisis right now?
+0:45:41.240000 - 0:45:43.760000::They're in danger to some shit and we're being so
+0:45:44.600000 - 0:45:47.800000::Mean and disrespectful to the bee population
+0:45:48.200000 - 0:45:52.200000::Well, guess what these bees are magical creatures. We should be worshipping them
+0:45:53.160000 - 0:45:59.840000::Because they emit some sort of I don't know they have some kind of healing type of thing that that they they oh my god
+0:46:00 - 0:46:06.120000::This just changed so much Nate because there was a bee on my leg earlier today. I'm not kidding and I swatted at it
+0:46:06.120000 - 0:46:07.920000::But if I'd known that
+0:46:07.920000 - 0:46:10.560000::From now on for the rest of my life. I'm not kidding about this
+0:46:10.560000 - 0:46:14.600000::I'm gonna be happy when there's a bee on me and when there's a bee around me and my friends
+0:46:14.600000 - 0:46:20.840000::And that's a good metaphor right guys because bees have stingers and we are afraid of them
+0:46:20.840000 - 0:46:26.480000::But why are we afraid of the thing that could of we're afraid to heal are we afraid of risk?
+0:46:27.440000 - 0:46:30.840000::Because of the writ yet we're afraid of the risk of pain
+0:46:31.200000 - 0:46:34.960000::But here's the thing you're not getting out of life pain free
+0:46:35.600000 - 0:46:37.600000::Pain is coming for you
+0:46:37.920000 - 0:46:43.360000::Horrible things are coming for you needles if it's not a bee sting. It's something emotional and
+0:46:43.880000 - 0:46:48::You can't escape it and you can run away and you can swat away all your problems
+0:46:48 - 0:46:52.800000::But guess what when it comes and finally gets you it's gonna be agitated and it's gonna hurt worse
+0:46:53 - 0:47:00.640000::So I say this every episode let yourself be swallowed by the pain and let yourself drown in sorrow and stress
+0:47:01.680000 - 0:47:06.120000::And just embrace it because that's what being alive is all about fine peace and pain
+0:47:07.320000 - 0:47:12.400000::And you won't just find peace, but you'll find healing because when the bee is close and when the sting is
+0:47:13.080000 - 0:47:15.080000::You know that's where your
+0:47:15.560000 - 0:47:19.960000::Closes to the frequency sometimes it hurts because
+0:47:22.760000 - 0:47:25.800000::I don't know why I said it like that. I don't know why I said like that
+0:47:28.240000 - 0:47:35.800000::It hurts because you're so close to the source and it's like you're it's like when you put ointment on a booboo, right?
+0:47:35.800000 - 0:47:37.800000::The
+0:47:39.520000 - 0:47:45.960000::It hurts to touch it with the cream right but the healing cream the healing the booboo become like
+0:47:46.840000 - 0:47:54.480000::Gaping wound, you know, can you call it about two inches to somebody took a shot into his face or D
+0:47:54.480000 - 0:47:59.280000::That's not a booboo right well. That's a large bullet death. That's really I think
+0:48:02.800000 - 0:48:04.800000::God damn
+0:48:04.920000 - 0:48:08.560000::Boo-boo definition honey booboo remember honey booboo
+0:48:09.080000 - 0:48:11.080000::No, oh
+0:48:11.080000 - 0:48:14.900000::Full grown adult. Oh, yeah right now. She is
+0:48:15.880000 - 0:48:17.880000::Shout out to adults keep it going
+0:48:20.520000 - 0:48:24.120000::Yeah, I did fucking adult shout out to all the adults out there
+0:48:24.640000 - 0:48:32.360000::Let's bring it back to the to the royal family. Yeah, yeah, yeah, we have a set. How old is mr. King Charles?
+0:48:32.640000 - 0:48:34.640000::He's something like
+0:48:34.640000 - 0:48:36.640000::He's not got long the throne
+0:48:37.520000 - 0:48:39.520000::Can Charles is the new one?
+0:48:39.800000 - 0:48:41.800000::He's only got so
+0:48:41.800000 - 0:48:43.800000::and
+0:48:44.200000 - 0:48:47.620000::I'm getting bad in imagine being that old I mean good energy from him
+0:48:48.680000 - 0:48:50.680000::I'm Google image him
+0:48:50.680000 - 0:48:53.720000::You saw that he is that finger right? Oh
+0:48:54.480000 - 0:48:56.480000::I just about say
+0:48:56.480000 - 0:49:02.800000::Large one he has the most swollen sausage fingers on the planet salad fingers
+0:49:03.600000 - 0:49:09.280000::Look it up look up King Charles's fingers. They're crazy. They look like they kind of look like like yummy
+0:49:09.280000 - 0:49:12.660000::Like a little bit like come on. Oh wait a minute. Let me look them out then
+0:49:12.960000 - 0:49:17.400000::Chin King Charles fingers. They look like you put some oh, yeah mustard on them. Oh
+0:49:19.400000 - 0:49:21.400000::He's
+0:49:21.400000 - 0:49:23.400000::At the at the coronation
+0:49:23.400000 - 0:49:29.440000::About something god damn it his hands look very I think he's kind of a I don't know if he's the the most
+0:49:30.440000 - 0:49:36.960000::Jovial person what kind of sauce would you put on his hand? Sorry? I would put some I don't know
+0:49:36.960000 - 0:49:40.820000::I see I love the royal so much, but just look at his face is making me angry
+0:49:41.960000 - 0:49:45.960000::So I take back what I said he looks like he's from the 1200s
+0:49:45.960000 - 0:49:49.480000::He looks like one of those ancient bitter kings the type of king
+0:49:49.480000 - 0:49:53.960000::Well, he is because they preserved their bloodline, you know, they have that in bread style
+0:49:54.800000 - 0:49:56.800000::Bloodline to preserve it is
+0:49:56.800000 - 0:50:00.040000::All this cuz you know they have lip readers now these things may
+
+0:50:00 - 0:50:02.340000::I can see what these people are secretly saying.
+0:50:02.340000 - 0:50:03.180000::Of course.
+0:50:03.180000 - 0:50:05.160000::King Charles apparently grumbled this.
+0:50:05.160000 - 0:50:07.280000::We can never be on time.
+0:50:07.280000 - 0:50:08.280000::And then he also li-
+0:50:08.280000 - 0:50:09.120000::And then he also li-
+0:50:09.120000 - 0:50:09.280000::li-
+0:50:09.280000 - 0:50:09.440000::li-
+0:50:09.440000 - 0:50:10.280000::li-
+0:50:10.280000 - 0:50:11.280000::li-
+0:50:11.280000 - 0:50:12.280000::li-
+0:50:12.280000 - 0:50:13.280000::li-
+0:50:13.280000 - 0:50:14.280000::li-
+0:50:14.280000 - 0:50:15.280000::li-
+0:50:15.280000 - 0:50:16.280000::li-
+0:50:16.280000 - 0:50:17.280000::li-
+0:50:17.280000 - 0:50:18.280000::li-
+0:50:18.280000 - 0:50:19.280000::li-
+0:50:19.280000 - 0:50:20.280000::li-
+0:50:20.280000 - 0:50:21.280000::li-
+0:50:21.280000 - 0:50:22.280000::li-
+0:50:22.280000 - 0:50:23.280000::li-
+0:50:23.280000 - 0:50:24.280000::li-
+0:50:24.280000 - 0:50:25.280000::li-
+0:50:25.280000 - 0:50:26.280000::li-
+0:50:26.280000 - 0:50:27.280000::li-
+0:50:27.280000 - 0:50:28.280000::li-
+0:50:28.280000 - 0:50:29.280000::li-
+0:50:29.280000 - 0:50:30.280000::li-
+0:50:30.280000 - 0:50:31.280000::li-
+0:50:31.280000 - 0:50:32.280000::li-
+0:50:32.280000 - 0:50:33.280000::li-
+0:50:33.280000 - 0:50:34.280000::li-
+0:50:34.280000 - 0:50:35.280000::li-
+0:50:35.280000 - 0:50:38.280000::li-
+0:50:38.280000 - 0:50:41.280000::li-
+0:50:41.280000 - 0:50:42.280000::li-
+0:50:42.280000 - 0:50:43.280000::li-
+0:50:43.280000 - 0:50:47.840000::li-
+0:50:47.840000 - 0:50:48.280000::li-
+0:50:48.280000 - 0:50:49.040000::li-
+0:50:49.040000 - 0:50:51.040000::li-
+0:50:51.040000 - 0:50:52.280000::li-
+0:50:52.280000 - 0:50:53.280000::li-
+0:50:53.280000 - 0:50:54.280000::li-
+0:50:54.280000 - 0:50:55.280000::li-
+0:50:55.280000 - 0:50:56.280000::li-
+0:50:56.280000 - 0:50:57.280000::li
+0:50:57.280000 - 0:50:58.280000::li-
+0:50:58.280000 - 0:50:58.780000::li-
+0:50:58.780000 - 0:51:00.100000::I'm talking about all right.
+0:51:00.100000 - 0:51:01.580000::Let's not talk about chickens like this.
+0:51:01.580000 - 0:51:03.260000::Let's the glottal.
+0:51:04.260000 - 0:51:06.060000::The glottal the water.
+0:51:06.060000 - 0:51:07.900000::The water fucking swinging around.
+0:51:07.900000 - 0:51:11.420000::I had a dream I can't even bring up right now recently.
+0:51:11.420000 - 0:51:13.260000::Then don't then don't bring it up to you.
+0:51:13.260000 - 0:51:14.220000::Let's move on.
+0:51:14.220000 - 0:51:15.060000::Let's move on.
+0:51:15.060000 - 0:51:16.900000::Please let's move on right now.
+0:51:16.900000 - 0:51:19.140000::But much love to you King Charles.
+0:51:19.140000 - 0:51:23.380000::Much love to Prince William, who was soon be King.
+0:51:23.380000 - 0:51:24.500000::I will say that you out.
+0:51:24.500000 - 0:51:27.140000::Take a moment of silence for this.
+0:51:27.140000 - 0:51:28.860000::Remember Princess Diana?
+0:51:29.860000 - 0:51:30.700000::Yep.
+0:51:30.700000 - 0:51:32.820000::Was she Carrie Fisher and Star Wars?
+0:51:32.820000 - 0:51:33.660000::No.
+0:51:33.660000 - 0:51:35.980000::She would have been queen if she hadn't
+0:51:35.980000 - 0:51:38.580000::had been in the car accident.
+0:51:38.580000 - 0:51:39.740000::Oh, really?
+0:51:39.740000 - 0:51:41.020000::Yep.
+0:51:41.020000 - 0:51:44.940000::And she was the only real one they had in that damn family.
+0:51:44.940000 - 0:51:45.940000::You know what I'm saying?
+0:51:45.940000 - 0:51:48.300000::In terms of the whole thing, real one.
+0:51:48.300000 - 0:51:49.300000::What's that?
+0:51:49.300000 - 0:51:50.820000::She was a bar.
+0:51:50.820000 - 0:51:51.820000::She was a bar.
+0:51:51.820000 - 0:51:52.900000::When's a college?
+0:51:52.900000 - 0:51:54.380000::She broke all tradition.
+0:51:55.340000 - 0:51:56.180000::You know what I mean?
+0:51:56.180000 - 0:51:59.540000::And so they put in a car accident.
+0:51:59.540000 - 0:52:04.340000::And so they took her out via car accident.
+0:52:04.340000 - 0:52:05.260000::Is the theory?
+0:52:05.260000 - 0:52:09.740000::There are people do wonder was it a hit?
+0:52:09.740000 - 0:52:13.780000::Is there a chance that almost every death that has
+0:52:13.780000 - 0:52:17.460000::as it happened is a hit a hit from the other dimension
+0:52:17.460000 - 0:52:19.260000::where they're pulling the strings and pressing the buttons
+0:52:19.260000 - 0:52:20.620000::on our lives?
+0:52:20.620000 - 0:52:22.500000::Humans don't really pass away.
+0:52:22.500000 - 0:52:25.500000::This is an interdimensional hit every time.
+0:52:25.780000 - 0:52:26.340000::It really is.
+0:52:26.340000 - 0:52:27.180000::It really is.
+0:52:27.180000 - 0:52:30.620000::To whoever is powering the simulation right now,
+0:52:30.620000 - 0:52:33.940000::whoever's playing a sim style, can you give us a break, dude?
+0:52:33.940000 - 0:52:35.340000::Leave us alone, girl.
+0:52:35.340000 - 0:52:36.180000::Whatever.
+0:52:36.180000 - 0:52:39.300000::Leave us the fuck alone and just let nobody die.
+0:52:39.300000 - 0:52:40.300000::Please for what?
+0:52:40.300000 - 0:52:41.660000::We're tired, man.
+0:52:41.660000 - 0:52:43.340000::We're tired.
+0:52:43.340000 - 0:52:44.540000::Good God.
+0:52:44.540000 - 0:52:46.100000::We don't hear this.
+0:52:46.100000 - 0:52:47.380000::That's what brings us.
+0:52:47.380000 - 0:52:48.220000::You know what they say?
+0:52:48.220000 - 0:52:50.540000::Like you need to be, you know, that's
+0:52:50.540000 - 0:52:54.780000::an ancient style of manifestation as prayer.
+0:52:54.780000 - 0:52:56.540000::I think that we need to bring back prayer
+0:52:56.540000 - 0:52:58.500000::because maybe that is kind of the direct.
+0:52:58.500000 - 0:53:02.820000::Maybe the sims player is kind of listening for stuff like that, you know?
+0:53:02.820000 - 0:53:06.020000::We just rang out, you're saying dear God, dear sims player, you know,
+0:53:06.020000 - 0:53:09.620000::saying like just give me a goddamn break right now, man.
+0:53:09.620000 - 0:53:11.260000::I really don't need this shit.
+0:53:11.260000 - 0:53:14.340000::You can put a lot of fuck that shit in my life right now.
+0:53:14.340000 - 0:53:17.460000::I feel like the guy who's playing this is named by the leg.
+0:53:17.460000 - 0:53:18.700000::My leg.
+0:53:18.700000 - 0:53:22.540000::What did you mean by that?
+0:53:22.540000 - 0:53:24.100000::Just kind of like some alien name.
+0:53:24.100000 - 0:53:25.100000::I don't know.
+0:53:25.100000 - 0:53:26.100000::Oh, I see what you're saying.
+0:53:26.100000 - 0:53:27.100000::Okay.
+0:53:27.100000 - 0:53:28.500000::Nate was just telling me about it.
+0:53:28.500000 - 0:53:30.140000::We're doing a whole episode on aliens.
+0:53:30.140000 - 0:53:31.140000::Yeah.
+0:53:31.140000 - 0:53:33.140000::I don't know why you already brought this stuff up, but that's thinking.
+0:53:33.140000 - 0:53:38.420000::You're talking about that stinky alien that I always just I feel like I like alien shit
+0:53:38.420000 - 0:53:39.940000::a lot and I'm interested in it.
+0:53:39.940000 - 0:53:40.940000::I love it too.
+0:53:40.940000 - 0:53:42.940000::Jack is not interested in us.
+0:53:42.940000 - 0:53:43.940000::I don't care.
+0:53:43.940000 - 0:53:47.540000::Well, I'm so hyper fixated on where this talk market's going that time.
+0:53:47.540000 - 0:53:52.180000::Shit like that is like, okay, we can think about it, but it doesn't.
+0:53:52.180000 - 0:53:53.620000::This is the craziest thing about this.
+0:53:53.660000 - 0:53:59.500000::I watched a documentary on aliens called a moment of contact or something.
+0:53:59.500000 - 0:54:03.660000::And the biggest takeaway from this is that there was people that came in contact with
+0:54:03.660000 - 0:54:06.620000::an actual alien on the ground.
+0:54:06.620000 - 0:54:07.620000::It was five.
+0:54:07.620000 - 0:54:11.220000::Jack sort of was slimy and oily.
+0:54:11.220000 - 0:54:13.460000::No, where was scared?
+0:54:13.460000 - 0:54:14.460000::Where?
+0:54:14.460000 - 0:54:16.180000::It was it was it was it was.
+0:54:16.180000 - 0:54:17.180000::It was.
+0:54:17.180000 - 0:54:18.180000::Oh, I know these guys.
+0:54:18.180000 - 0:54:19.780000::No, that's why it's thank dude.
+0:54:19.780000 - 0:54:20.780000::It was.
+0:54:20.780000 - 0:54:21.780000::It was.
+0:54:21.780000 - 0:54:22.780000::Thank you dude.
+0:54:22.780000 - 0:54:25.620000::This isn't the eight in the seventies or something?
+0:54:25.620000 - 0:54:26.620000::No, the nineties.
+0:54:26.620000 - 0:54:28.300000::The nineties is what I meant.
+0:54:28.300000 - 0:54:32.220000::Yeah, I think I think we talked about how aliens probably smell like shit before on this
+0:54:32.220000 - 0:54:35.140000::podcast, but this has to be predicted.
+0:54:35.140000 - 0:54:38.180000::Alien this alien stunk.
+0:54:38.180000 - 0:54:42.340000::Well, hold on, why must we always catastrophize, right?
+0:54:42.340000 - 0:54:43.340000::Why?
+0:54:43.340000 - 0:54:48.860000::Why spend our mental energy this way when we could just as easily say, what if aliens smell
+0:54:48.860000 - 0:54:52.260000::like pizza?
+0:54:52.260000 - 0:54:54.500000::No, they don't, man.
+0:54:54.500000 - 0:54:58.180000::They smell like they smell like they smell like rotten eggs.
+0:54:58.180000 - 0:55:00.020000::This is me if I saw an alien, imagine being
+
+0:55:00 - 0:55:07.100000::and you're about to like touch down earth you've never seen anything like what we got going on and the first thing you see is me going
+0:55:16.600000 - 0:55:18.600000::Yeah
+0:55:21.800000 - 0:55:28.160000::That's what I'm saying about humiliating an alien if I see one is like I just know they're not gonna be ready for what we're what I'm gonna think of them
+0:55:29.160000 - 0:55:33.240000::They're gonna get the a yo Joe Byron the Joe Byron guy will
+0:55:36.160000 - 0:55:43.320000::He will be the first person to see an alien I swear to God for sure. I would watch his name. What's that guy's name?
+0:55:44.320000 - 0:55:47.160000::Oh little nems nems or whatever the
+0:55:48.320000 - 0:55:52.720000::Street talk. Yeah, I bet you gorilla nems nems. I
+0:55:53.480000 - 0:55:57.400000::Would watch an alien show starring him where he is making contact with the alien
+0:55:58.760000 - 0:56:00.760000::video Joe Byron
+0:56:01.520000 - 0:56:03.200000::He's gonna get a
+0:56:03.200000 - 0:56:11.500000::The Coney Island is gonna be the first point of contact for aliens and they're just gonna get fucking obliterated roast style Jeff Ross could never type behavior
+0:56:12.800000 - 0:56:16.280000::Jeff Ross. Did you imagine Jeff Ross be alien? They wouldn't even
+0:56:17.040000 - 0:56:22.080000::What if the royals are actually all aliens and they protected something in those queenly eggs?
+0:56:22.080000 - 0:56:27.320000::Remember those you know those jeweled eggs the jewel maybe that's those are real ass eggs
+0:56:27.640000 - 0:56:29.880000::Can you but George at the right time?
+0:56:33.120000 - 0:56:41.060000::Gators scary we don't know y'all well guys what gave me joy this week. God. It's been a rough one
+0:56:43.120000 - 0:56:49.040000::Oh, oh, I went to the sauna kind of twice and well kind of three times in one week
+0:56:49.920000 - 0:56:55::Okay, yeah, yeah, yeah, yeah, a couple different songs and I just
+0:56:56 - 0:56:59.960000::Shout-out man Williamsburg bathhouse evolve fitness
+0:57:00.720000 - 0:57:08.760000::Steam room and then last night the Wall Street baths wow and the Wall Street baths. I think is the goat. It's so sick
+0:57:09.960000 - 0:57:14.640000::Yeah, it's one we went to it. It's like feels like you're in 1993 Manhattan
+0:57:15.480000 - 0:57:21.440000::I had a bit of panic attack last time I was in there. Yeah, the ceilings are a little low. It's scary. I
+0:57:22.480000 - 0:57:24.480000::Would like to have my birthday party there
+0:57:24.840000 - 0:57:27.340000::Anyways, I'm feeling kind of rejuvenated
+0:57:28.240000 - 0:57:35.520000::From the sun and so thank you God for giving us heat treat yourself. Yes, treat yourself self care
+0:57:35.640000 - 0:57:38.500000::Treat yourself treat yourself and what so
+0:57:38.960000 - 0:57:40.960000::Nate what you do it was
+0:57:41.640000 - 0:57:43.640000::Well, as you know, we're
+0:57:44.880000 - 0:57:47.640000::Jack and I are part of the WGA
+0:57:48.480000 - 0:57:52.720000::Eric is a fierce ally of the writers guild
+0:57:53.400000 - 0:58:00.680000::And the writers guild if you haven't if you don't know is on strike right now because the
+0:58:02.080000 - 0:58:09.160000::Because our contracts are just fucked up right now everything's fucked up with streaming and they're getting like just more
+0:58:09.160000 - 0:58:13.640000::Prophesy than ever and they're not sharing them and it's just kind of like the writer profession is like
+0:58:14.160000 - 0:58:18.900000::Seems like it's dwindling if this is going to you know keep going on and
+0:58:20.480000 - 0:58:24.440000::I've been going out to strike and pick it at the Netflix
+0:58:26.200000 - 0:58:28.600000::Lot here in Los Angeles and
+0:58:29.760000 - 0:58:31.760000::It's been fun to see like
+0:58:32.360000 - 0:58:37.640000::How fucking fired up people are like I feel like it's like the the solidarity is like
+0:58:38 - 0:58:41.480000::Is really inspiring to me and it's been cool to see
+0:58:42.280000 - 0:58:46.720000::Everyone come out and support and I don't know. I feel like everyone is just like
+0:58:48.320000 - 0:58:52.960000::Like just so amped to get this thing, you know
+0:58:54.320000 - 0:58:56.320000::Get a fair contract, you know
+0:58:57.280000 - 0:58:59.280000::Yeah, that's awesome
+0:59:01.280000 - 0:59:03.120000::Shout out to that shout out
+0:59:04.120000 - 0:59:15.760000::And my will gave me joy is kind of the opposite I have been out here working for the AMPTP the Alliance of motion picture and television producers trying to fight off these greedy-ass writers
+0:59:17.280000 - 0:59:22.080000::What happened is and I'll tell it how it really happened if you're gonna skirt around it like a fucking loser dude
+0:59:22.920000 - 0:59:24.320000::Basically
+0:59:24.320000 - 0:59:29.800000::Yeah, there's a three-year contract every three years whatever the term they want to set on and the writers
+0:59:30.280000 - 0:59:34.760000::Over the last couple contracts they're pissed because they think like
+0:59:35.480000 - 0:59:38.880000::TV we used to get so much money from residuals from the
+0:59:39.480000 - 0:59:43.040000::commercials, right and then we went over to streaming and what did the writers do?
+0:59:43.560000 - 0:59:49.360000::They were too stupid because they didn't realize that now all the revenues are gonna be coming from a different source and they they miss the bag
+0:59:49.360000 - 0:59:51.360000::And we got it and now they're all pissed because
+0:59:52.120000 - 0:59:59.280000::Disney Amazon whatever Netflix Hulu all were there to catch the coins when they fell out the Mario blocks and the writers were too busy being nerds
+0:59:59.800000 - 1:00:01.820000::because
+
+1:00:00 - 1:00:02.080000::because that's what they are, is their nerds.
+1:00:02.080000 - 1:00:04.240000::And they sit inside and then they smell weird.
+1:00:04.240000 - 1:00:06.160000::And that's final.
+1:00:07.480000 - 1:00:11.360000::So yeah, what I've been doing is I've been kind of going up
+1:00:11.360000 - 1:00:13.840000::to the Picket Lines J Lino style
+1:00:13.840000 - 1:00:16.760000::with in my Maserati, and I just kind of dump a bunch
+1:00:16.760000 - 1:00:20.320000::of Gatorade sticky ass Coca-Cola all over the strikers.
+1:00:20.320000 - 1:00:25.320000::I say suck it and then I kind of go to the strip clubs
+1:00:25.880000 - 1:00:26.880000::for the rest of the day.
+1:00:26.880000 - 1:00:28.440000::For the rest of the day.
+1:00:28.440000 - 1:00:30.200000::I'm gonna have the best summer of my life
+1:00:30.200000 - 1:00:32.160000::while y'all are out there sweating.
+1:00:32.160000 - 1:00:34.600000::And then he, I'm gonna be having the best summer of my life.
+1:00:34.600000 - 1:00:38.200000::And then whenever I want, I'm gonna go meet up
+1:00:38.200000 - 1:00:41.840000::with my AMPTP folks and say sure you can have
+1:00:41.840000 - 1:00:44.400000::a 2% raise for the next three years.
+1:00:44.400000 - 1:00:47.480000::I have heard that that is a really nice community
+1:00:47.480000 - 1:00:48.680000::that you're a part of.
+1:00:48.680000 - 1:00:50.200000::They all, they all, yeah.
+1:00:50.200000 - 1:00:51.320000::Well, it's all young people now.
+1:00:51.320000 - 1:00:53.800000::It's all like a bunch of 20 year old Silicon Valley people.
+1:00:53.800000 - 1:00:58.080000::Like the WGA people are all like these old heads.
+1:00:58.120000 - 1:00:59.360000::They don't get it.
+1:00:59.360000 - 1:01:00.960000::All they know about is TV.
+1:01:00.960000 - 1:01:02::They don't know about...
+1:01:06.160000 - 1:01:07.520000::Hitting a Coke Blunt.
+1:01:09.120000 - 1:01:10.760000::A blunt full of cocaine.
+1:01:10.760000 - 1:01:12.280000::Yeah.
+1:01:12.280000 - 1:01:13.480000::That's how the rule is.
+1:01:13.480000 - 1:01:16.800000::Oh man, this blunt is 100% cocaine.
+1:01:16.800000 - 1:01:19.520000::Yeah, you like Keith, try crack.
+1:01:19.520000 - 1:01:21.200000::Why that's crack.
+1:01:21.200000 - 1:01:22.040000::Yeah.
+1:01:23.600000 - 1:01:26.280000::Well, y'all peace and love to the writers.
+1:01:26.280000 - 1:01:27.920000::Peace and love to the studios that are just
+1:01:27.920000 - 1:01:30.320000::trying to make movies and make stuff for us to watch
+1:01:30.320000 - 1:01:31.320000::and enjoy again.
+1:01:31.320000 - 1:01:32.160000::Yeah.
+1:01:32.160000 - 1:01:33.320000::I hope we can find a balance.
+1:01:35.040000 - 1:01:36.560000::We need you in the talking, Taro.
+1:01:36.560000 - 1:01:37.800000::I feel like you could really...
+1:01:37.800000 - 1:01:40.480000::I don't, I bring such calm to every situation.
+1:01:40.480000 - 1:01:41.320000::Impassion.
+1:01:41.320000 - 1:01:42.160000::You're such a good media.
+1:01:42.160000 - 1:01:45.720000::And once that conflicts there, I raise, run the fuck out of there.
+1:01:45.720000 - 1:01:48.760000::That's just any real tension.
+1:01:48.760000 - 1:01:49.600000::I say goodbye.
+1:01:49.600000 - 1:01:51.200000::I do say, they die.
+1:01:51.200000 - 1:01:52.200000::Hey.
+1:01:53.120000 - 1:01:54.600000::We're gonna get you on the picket lines.
+1:01:54.600000 - 1:01:56.200000::You know, like a fucking transformer's mix.
+1:01:56.200000 - 1:01:57.720000::Oh, what you know we should do.
+1:01:57.880000 - 1:02:01.120000::We should put a link to the entertainment fund
+1:02:01.120000 - 1:02:02.120000::if you want to donate.
+1:02:02.120000 - 1:02:05.320000::If you're feeling your heart of hearts to donate to something,
+1:02:05.320000 - 1:02:07.880000::it's like this fund that helps out, you know,
+1:02:07.880000 - 1:02:11.240000::people that are affected by this strike.
+1:02:11.240000 - 1:02:13.560000::And you can donate to it and you know, feel good about yourself
+1:02:13.560000 - 1:02:15.520000::that you're helping out some people that are, you know,
+1:02:15.520000 - 1:02:16.600000::affected by this.
+1:02:16.600000 - 1:02:17.440000::So strike fun.
+1:02:17.440000 - 1:02:19.040000::Put a link to it in the comments
+1:02:19.040000 - 1:02:20.960000::or in the whatever, let's show them.
+1:02:20.960000 - 1:02:21.800000::Yeah.
+1:02:21.800000 - 1:02:22.640000::Section.
+1:02:23.880000 - 1:02:25.200000::Hell yeah.
+1:02:25.200000 - 1:02:26.040000::Well, yeah.
+1:02:26.040000 - 1:02:26.880000::All right.
+1:02:26.880000 - 1:02:27.680000::Peace out, everybody.
+1:02:28 - 1:02:28.920000::Peace out.
+1:02:28.920000 - 1:02:32.560000::Well, that concludes another incredible fucking episode
+1:02:32.560000 - 1:02:34.120000::of Joy Tactics.
+1:02:34.120000 - 1:02:37.240000::Ked over to patreon.com slash Joy Tactics
+1:02:37.240000 - 1:02:40.800000::to unlock exclusive weekly bonus episodes.
+1:02:40.800000 - 1:02:43.160000::And make sure to follow us on social media
+1:02:43.160000 - 1:02:47.240000::where we post fire TikToks and hilarious shit like that.
+1:02:47.240000 - 1:02:49.520000::And if you loved the shit you just listened to,
+1:02:49.520000 - 1:02:53.440000::make sure to subscribe, rate, and leave us a review.
+1:02:53.440000 - 1:02:55.640000::Thanks for listening and remember,
+1:02:55.640000 - 1:02:59.080000::we are shaped by our thoughts, we become what we think.
+1:02:59.080000 - 1:03:02.080000::When the mind is pure, Joy follows like a shadow
+1:03:02.080000 - 1:03:03.240000::that never leaves.
+

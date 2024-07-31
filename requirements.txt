@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+pydub
+whisper
+yt-dlp
+selenium
+streamlit
+elasticsearch
+tqdm
