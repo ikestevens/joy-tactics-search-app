@@ -125,6 +125,11 @@ if __name__ == "__main__":
         max_retries=10,
         retry_on_timeout=True
     )
+    # es = Elasticsearch([{'host': 'host.docker.internal', 'port': 9200, 'scheme': 'http'}]).options(
+    #     request_timeout=30,
+    #     max_retries=10,
+    #     retry_on_timeout=True
+    # )
     try:
         create_index(es)
         print("Index created or already exists.")
