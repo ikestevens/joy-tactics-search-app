@@ -8,6 +8,33 @@ Joy Tactics is an emerging podcast hosted by three hilarious alternative comedia
 
 **Note:** Because half of Joy Tactics eppys are Bonus episodes for paying Patreons only, this repo only has the free episode transcripts. But you can fill out the episodes.csv with the bonus episodes youtube_urls and download/transcribe the bonus episodes to use the complete transcripts if you're a Patron. Become a Joy Tactician at https://www.patreon.com/joytactics.
 
+## How to deploy App on DigitalOcean Managed Kubernetes Cluster
+
+**prerequisites:** [Kubectl](https://kubernetes.io/docs/tasks/tools/), [Doctl](https://github.com/digitalocean/doctl?tab=readme-ov-file#installing-doctl), a DigitalOcean Managed Kubernetes Cluster, and [Docker](https://docs.docker.com/engine/install/), 
+
+1. Create DigitalOcean Managed Kubernetes Cluster on your [DigitalOcean](https://cloud.digitalocean.com/) account. For this example we used the folloing 
+    - datacenter region: `NYC1` or the region closest to you.
+    - version: `1.31.1-do.4 - recommeneded` 
+    - Node pool name: `<your-choice>`
+    - Shared CPU
+    - Machine type (Droplet): Basic
+    - Node Plan: `2GB total RAM / 1 vCPU / 50GB storage`
+    - Nodes: `3`
+    - Cluster name: `<your-choice>`
+    - Project: `<your-project>`
+    Click Create Cluster to create the cluster. Give it a couple minutes to 
+   
+
+2. Follow this [guide](https://docs.digitalocean.com/products/kubernetes/how-to/connect-to-cluster/) to connect to your Kubernetes Cluster. Once you have completed this part you should be connected to your DigitalOcean Kubernetes Cluster!!! 
+Run `kubectl get nodes` and you should see your three nodes up and running!
+
+3. Download this repo onto your local machine with your preffered method `git`, `gh`, etc. 
+
+4. 
+
+
+
+
 ## How To Run the App Locally
 
 **Requirements:** Python, Docker

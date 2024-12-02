@@ -3,28 +3,15 @@ from elasticsearch import Elasticsearch
 from datetime import datetime
 import re
 from collections import defaultdict
-import logging
-
-# Create and configure logger
-logging.basicConfig(filename="newfile.log",
-                    format='%(asctime)s %(message)s',
-                    filemode='w')
-
-# Creating an object
-logger = logging.getLogger()
-
-# Setting the threshold of logger to DEBUG
-logger.setLevel(logging.DEBUG)
-
-
 
 
 # Set Streamlit to use wide layout
 st.set_page_config(layout="wide", page_title="Joy Tactics Search")
 
 def search_transcripts(query, size=50):
-    # es = Elasticsearch([{'host': 'localhost', 'port': 9200, 'scheme': 'http'}])
-    es = Elasticsearch([{'host': 'host.docker.internal', 'port': 9200, 'scheme': 'http'}])
+    es = Elasticsearch([{'host': '10.245.105.8', 'port': 9200, 'scheme': 'http'}])
+    # es = Elasticsearch([{'host': 'host.docker.internal', 'port': 9200, 'scheme': 'http'}])
+    print("trying to connect")
     res = es.search(
         index="transcripts",
         body={

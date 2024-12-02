@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: joy-tactics-app-deployment
+  labels:
+    app: joy-tactics-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: joy-tactics-app
+  template:
+    metadata:
+      labels:
+        app: joy-tactics-app
+    spec:
+      containers:
+      - name: joy-tactics-app
+        image: everydaydaniel1994/joy-tactics-app
+        ports:
+        - containerPort: 8501

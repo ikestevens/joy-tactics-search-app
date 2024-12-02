@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: seeded
+  labels:
+    app: seeded
+spec:
+  replicas: 3
+  selector:
+    matchLabels: seeded
+      app: seeded
+  template:
+    metadata:
+      labels:
+        app: seeded
+    spec:
+      containers:
+      - name: seeded
+        image: everydaydaniel1994/seeded
+        ports:
+        - containerPort: 8501
