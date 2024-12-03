@@ -16,9 +16,9 @@ spec:
     spec:
       containers:
       - name: joy-tactics-app
-        image: everydaydaniel1994/joy-tactics-app
+        image: YOUR_DOCKER_USERNAME/joy-tactics-app
         ports:
         - containerPort: 8501
         env:
         - name: ES_HOSTNAME
-          value: "10.245.141.196"
+          value: ES_HOSTNAME_VALUE
