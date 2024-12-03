@@ -1,22 +1,22 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: seedDB
+  name: joy-tactics-app-deployment
   labels:
-    app: seedDB
+    app: joy-tactics-app
 spec:
-  replicas: 1
+  replicas: 3
   selector:
-    matchLabels: seedDB
-      app: seedDB
+    matchLabels:
+      app: joy-tactics-app
   template:
     metadata:
       labels:
-        app: seedDB
+        app: joy-tactics-app
     spec:
       containers:
-      - name: seedDB
-        image: YOUR_DOCKER_USERNAME/seedDB
+      - name: joy-tactics-app
+        image: YOUR_DOCKER_USERNAME/joy-tactics-app
         ports:
         - containerPort: 8501
         env:

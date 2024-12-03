@@ -4,6 +4,7 @@ import re
 from elasticsearch import Elasticsearch
 from datetime import datetime
 from tqdm import tqdm
+import sys
 
 def create_index(es):
     es.indices.create(
@@ -120,7 +121,13 @@ def index_transcripts(es, transcripts_dir, episode_data):
     return ingested_files
 
 if __name__ == "__main__":
-    es = Elasticsearch([{'host': '137.184.242.36', 'port': 9200, 'scheme': 'http'}]).options(
+    try:
+        host_name = sys.argv[1]
+        print("Hostname:", host_name)
+    except Exception as e:
+        print("please provide hostname from cluster")
+        print(e)
+    es = Elasticsearch([{'host': host_name, 'port': 9200, 'scheme': 'http'}]).options(
         request_timeout=30,
         max_retries=10,
         retry_on_timeout=True

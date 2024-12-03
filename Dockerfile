@@ -27,9 +27,11 @@ RUN pip3 install -r requirements.txt
 
 EXPOSE 8501
 
-CMD [ "./dockerrun.sh" ]
+# CMD [ "./dockerrun.sh" ]
+ENTRYPOINT ["streamlit", "run", "app.py"]
+
+
 
 # HEALTHCHECK CMD curl --fail http://localhost:8501/_stcore/health
-# ENTRYPOINT ["streamlit", "run", "app.py"]
-# ENTRYPOINT ["streamlit", "run", "app.py"]
+
 # ENTRYPOINT ["streamlit", "run", "app.py", "--server.port=8501", "--server.address=localhost"]

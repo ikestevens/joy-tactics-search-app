@@ -8,7 +8,6 @@ metadata:
     io.kompose.service: elasticsearch
   name: elasticsearch
 spec:
-  type: LoadBalancer
   ports:
     - name: "9200"
       port: 9200

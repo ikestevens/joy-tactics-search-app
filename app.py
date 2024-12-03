@@ -3,13 +3,15 @@ from elasticsearch import Elasticsearch
 from datetime import datetime
 import re
 from collections import defaultdict
+import os
 
 
 # Set Streamlit to use wide layout
 st.set_page_config(layout="wide", page_title="Joy Tactics Search")
 
 def search_transcripts(query, size=50):
-    es = Elasticsearch([{'host': '10.245.105.8', 'port': 9200, 'scheme': 'http'}])
+    ES_HOSTNAME = os.environ['ES_HOSTNAME']
+    es = Elasticsearch([{'host': ES_HOSTNAME, 'port': 9200, 'scheme': 'http'}])
     # es = Elasticsearch([{'host': 'host.docker.internal', 'port': 9200, 'scheme': 'http'}])
     print("trying to connect")
     res = es.search(
