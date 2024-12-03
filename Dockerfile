@@ -1,5 +1,7 @@
 # app/Dockerfile
 
+# This is the dockerfile for our application frontend. It uses streamlit and only builds what is needed to run the frontend.
+
 FROM python:3.9-slim
 
 WORKDIR /app
